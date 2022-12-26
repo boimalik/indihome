@@ -245,19 +245,17 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 http://iptvid.my.id/hmm/hits.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_hitsmovie_ver1.png" group-title="PREMIUM CHANNEL", HITS MOVIES
 http://iptvid.my.id/hmm/hitsmovie.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", TV5 MONDE
-http://iptvid.my.id/hmm/tv5monde.m3u8
-http://210.210.155.35:80/uq2663/h/h01/01.m3u8 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_lifetime_small.png" group-title="PREMIUM CHANNEL", LIFETIME
-http://iptvid.my.id/hmm/lifetime.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kplus_ver1.png" group-title="PREMIUM CHANNEL",KPLUS
-http://iptvid.my.id/hmm/kplus.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mycinema_ver1.png" group-title="PREMIUM CHANNEL",MY CINEMA
 http://rr.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_myfamily_ver1.png" group-title="PREMIUM CHANNEL",MY FAMILY CHANNEL
 http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_new-mycinemaasia_small.png" group-title="PREMIUM CHANNEL",MY CINEMA ASIA
 http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", TV5 MONDE
+http://iptvid.my.id/hmm/tv5monde.m3u8
+http://210.210.155.35:80/uq2663/h/h01/01.m3u8 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_lifetime_small.png" group-title="PREMIUM CHANNEL", LIFETIME
+http://iptvid.my.id/hmm/lifetime.m3u8
 
 
 **** MUSIK *****
@@ -269,11 +267,12 @@ http://iptvid.my.id/hmm/ikonser.m3u8
 http://iptvid.my.id/hmm/seru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lRbGMf.png" group-title="MUSIK", POP MUSIK
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJA7M8R.png" group-title="MUSIK", Maleo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJA7M8R.png" group-title="MUSIK", MALEO
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5BMfuS5.png" group-title="MUSIK", DENS SHOWBIZ
 http://rr3.dens.tv/s/s35/S4/mnf.m3u8
 http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
+
 
 *** NEWS ***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", ALJAZEERA
@@ -283,26 +282,24 @@ http://iptvid.my.id/hmm/beritasatu.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS", BLOOMBERG 
 http://iptvid.my.id/hmm/bloomberg.m3u8
 http://210.210.155.35:80/uq2663/h/h03/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="NEWS", CCTV4
 http://iptvid.my.id/hmm/cctv4.m3u8
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS", CNN INDONESIA
-http://iptvid.my.id/hmm/cnnid.m3u8
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS", CNBC INDONESIA
-http://iptvid.my.id/hmm/cnbcid.m3u8
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="NEWS", DW
 http://iptvid.my.id/hmm/dwtv.m3u8
 http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="NEWS", FRANCE 24
 http://iptvid.my.id/hmm/france24.m3u8
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" group-title="NEWS", MNC NEWS
-http://iptvid.my.id/hmm/mncnews.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="NEWS", NHK WORLD
 http://iptvid.my.id/hmm/nhkw.m3u8
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" group-title="NEWS", MNC NEWS
+http://iptvid.my.id/hmm/mncnews.m3u8
 
 
 ***RELIGI***
@@ -505,6 +502,11 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
+#EXTINF:-1 tvg-id="AXNIndonesia.id" tvg-logo="https://i.ibb.co/9gKm3Fv/images-2-modified.png" group-title="Premium MNC Vision", AXN
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/axn.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
 #EXTINF:-1 tvg-id="Kix.hk" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png" group-title="Premium MNC Vision", KIX
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/kix.mpd
 
@@ -541,6 +543,17 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 
 #EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="Premium MNC Vision",Sky Cinema Thriller
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/skythiller
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
+#EXTINF:-1 tvg-id="AsianFoodNetwork.dukun" tvg-logo="https://i.ibb.co/Rv1dwZD/afn-logo-modified.png" group-title="Premium MNC Vision", Asian Food Network
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/afn.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-logo="https://i.ibb.co/2hfBy59/images-2-modified-1.png" group-title="Premium MNC Vision", TLC
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/tlc.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
