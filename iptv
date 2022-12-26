@@ -50,14 +50,6 @@ http://iptvid.my.id/hmm/metrotv.m3u8
 http://iptvid.my.id/hmm/kompastv.m3u8
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="LOCAL", MOJI
 http://iptvid.my.id/hmm/ochannel.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="LOCAL", CNN INDONESIA
-http://iptvid.my.id/hmm/cnnindonesia.m3u8
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="LOCAL", CNBC INDONESIA
-http://iptvid.my.id/hmm/cnbcindonesia.m3u8
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png?v=2.0.0.13" group-title="LOCAL", BERITA SATU
-http://iptvid.my.id/hmm/beritasatu.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="LOCAL", TVRI
 http://iptvid.my.id/hmm/tvri.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/162504
@@ -273,40 +265,44 @@ http://rr.dens.tv/h/h193/index.m3u8
 http://iptvid.my.id/hmm/musikindo.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="MUSIK", IKONSER
 http://iptvid.my.id/hmm/ikonser.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" group-title="MUSIK", CITRA DANGDUT
-http://iptvid.my.id/hmm/citradangdut.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png" group-title="MUSIK", CITRA DRAMA
-http://iptvid.my.id/hmm/citradrama.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seru_small.png" group-title="MUSIK", SERU CHANNEL
 http://iptvid.my.id/hmm/seru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lRbGMf.png" group-title="MUSIK", POP MUSIK
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJA7M8R.png" group-title="MUSIK", Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5BMfuS5.png" group-title="MUSIC", DENS SHOWBIZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5BMfuS5.png" group-title="MUSIK", DENS SHOWBIZ
 http://rr3.dens.tv/s/s35/S4/mnf.m3u8
 http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
 
 *** NEWS ***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", ALJAZEERA
 http://iptvid.my.id/hmm/aljazeera.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png?v=2.0.0.13" group-title="NEWS", BERITA SATU
+http://iptvid.my.id/hmm/beritasatu.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS", BLOOMBERG 
 http://iptvid.my.id/hmm/bloomberg.m3u8
 http://210.210.155.35:80/uq2663/h/h03/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="NEWS", CCTV4
 http://iptvid.my.id/hmm/cctv4.m3u8
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS", CNN INDONESIA
+http://iptvid.my.id/hmm/cnnid.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS", CNBC INDONESIA
+http://iptvid.my.id/hmm/cnbcid.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="NEWS", DW
 http://iptvid.my.id/hmm/dwtv.m3u8
 http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="NEWS", FRANCE 24
 http://iptvid.my.id/hmm/france24.m3u8
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" group-title="NEWS", MNC NEWS
+http://iptvid.my.id/hmm/mncnews.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="NEWS", NHK WORLD
 http://iptvid.my.id/hmm/nhkw.m3u8
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" group-title="NEWS", MNC NEWS
-http://iptvid.my.id/hmm/mncnews.m3u8
 
 
 ***RELIGI***
