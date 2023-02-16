@@ -104,6 +104,7 @@ http://iptvid.my.id/hmm/aniplus.m3u8
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS",DREAMWORK
 http://iptvid.my.id/hmm/dreamwork.m3u8
+http://iptvid.my.id/hmm/drmwrk.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="KIDS", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", NICK JUNIOR 
@@ -122,12 +123,17 @@ http://iptvid.my.id/hmm/duniaanak.m3u8
 http://iptvid.my.id/hmm/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_small.png" group-title="KIDS", INDIKIDS 
 http://iptvid.my.id/hmm/indikids.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
+http://iptvid.my.id/hmm/mentaritv.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
+http://iptvid.my.id/hmm/horee.m3u8
+http://tvn.x10.mx/1/master-4.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS", ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://tvn.x10.mx/1/master-8.m3u8?dl=1
 http://tvlive.my.id:25461/mat/mat/68
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="KIDS", MY KIDZ
-http://iptvid.my.id/hmm/mykidz.m3u8
+http://iptvid.my.id/hmm/mykids.m3u8
 http://rr.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376977_duck-tv-duck-tv.png" group-title="KIDS",Duck TV 
@@ -146,11 +152,6 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 https://happykids-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="KIDS", EGG TV 
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
-http://iptvid.my.id/hmm/mentari.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
-http://iptvid.my.id/hmm/horee.m3u8
-http://tvn.x10.mx/1/master-4.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY CHANNEL
 http://iptvtree.net:8080/ace2524d/15a571c413/165075
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
@@ -170,7 +171,7 @@ http://180.211.90.134:8000/play/a09e
 http://iptvid.my.id/hmm/natgeowild.m3u8
 http://iptvid.my.id/hmm/ngwild.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-http://iptvid.my.id/hmm/discoverychannel.m3u8
+http://iptvid.my.id/hmm/discovery.m3u8
 http://iptvid.my.id/hmm/dsc.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE",HISTORY
 http://iptvid.my.id/hmm/history.m3u8
