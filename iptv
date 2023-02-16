@@ -306,7 +306,7 @@ http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
 http://iptvid.my.id/hmm/france24.m3u8
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="NEWS", NHK WORLD
-http://iptvid.my.id/hmm/nhkw.m3u8
+http://iptvid.my.id/hmm/nhkworld.m3u8
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" group-title="NEWS", MNC NEWS
 http://iptvid.my.id/hmm/mncnews.m3u8
@@ -337,9 +337,11 @@ http://iptvid.my.id/hmm/uchannel.m3u8
 
 ***SPORTS***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 1
+http://iptvid.my.id/hmm/bein1.m3u8
 http://iptvid.my.id/hmm/bskunyak1.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/100
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 3
+http://iptvid.my.id/hmm/bein2.m3u8
 http://iptvid.my.id/hmm/bskunyak2.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/101
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_spotv_small.png" group-title="SPORTS", SPOTV
