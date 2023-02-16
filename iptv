@@ -103,7 +103,7 @@ http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 http://iptvid.my.id/hmm/aniplus.m3u8
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS",DREAMWORK
-http://iptvid.my.id/hmm/drmwrk.m3u8
+http://iptvid.my.id/hmm/dreamwork.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="KIDS", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", NICK JUNIOR 
@@ -119,15 +119,15 @@ http://iptvid.my.id/hmm/davinci.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK 
 http://iptvid.my.id/hmm/duniaanak.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", CARTOON NETWORK 
-http://iptvid.my.id/hmm/cn.m3u8
+http://iptvid.my.id/hmm/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_small.png" group-title="KIDS", INDIKIDS 
 http://iptvid.my.id/hmm/indikids.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS", ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://tvn.x10.mx/1/master-8.m3u8?dl=1
 http://tvlive.my.id:25461/mat/mat/68
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="KIDS", MY KIDS
-http://iptvid.my.id/hmm/mkidz.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="KIDS", MY KIDZ
+http://iptvid.my.id/hmm/mykidz.m3u8
 http://rr.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376977_duck-tv-duck-tv.png" group-title="KIDS",Duck TV 
@@ -160,18 +160,22 @@ http://iptvtree.net:8080/ace2524d/15a571c413/162511
 ***KNOWLEDGE***
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="KNOWLEDGE",CGTN DOCUMENTARY
+http://iptvid.my.id/hmm/cgtndocumentary.m3u8
 http://iptvid.my.id/hmm/cgtndoc.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
 http://iptvid.my.id/hmm/natgeo.m3u8
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NAT GEO PEOPLE
 http://180.211.90.134:8000/play/a09e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NAT GEO WILD
+http://iptvid.my.id/hmm/natgeowild.m3u8
 http://iptvid.my.id/hmm/ngwild.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+http://iptvid.my.id/hmm/discoverychannel.m3u8
 http://iptvid.my.id/hmm/dsc.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE",HISTORY
 http://iptvid.my.id/hmm/history.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KNOWLEDGE",CRIME INVESTIGATION
+http://iptvid.my.id/hmm/crimeinvestigation.m3u8
 http://iptvid.my.id/hmm/crime.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="KNOWLEDGE",LINGUA
 http://iptvid.my.id/hmm/lingua.m3u8
@@ -199,6 +203,7 @@ http://iptvtree.net:8080/ace2524d/15a571c413/157532
 
 ***PREMIUM CHANNEL***
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="PREMIUM CHANNEL", TVN MOVIES 
+http://iptvid.my.id/hmm/tvnmovies.m3u8
 http://iptvid.my.id/hmm/tvnmovie.m3u8
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="PREMIUM CHANNEL", TVN 
@@ -236,6 +241,7 @@ http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="PREMIUM CHANNEL", CINEMA WORLD 
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES 
+http://iptvid.my.id/hmm/celestialmovie.m3u8
 http://iptvid.my.id/hmm/clstl.m3u8
 http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", ZEE BIOSKOP
