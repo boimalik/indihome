@@ -260,8 +260,6 @@ http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", DREAMWORKS
 https://anevia114.mncnow.id/live/eds/Dreamworks-HD/sa_dash_vmx/Dreamworks-HD.mpd
 
@@ -269,6 +267,7 @@ https://anevia114.mncnow.id/live/eds/Dreamworks-HD/sa_dash_vmx/Dreamworks-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", DREAMWORKS
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941656&extension=ts&play_token=1kEm8DbZmS
 https://satvb.my.id/vsn/visio.mpd?id=62877
 http://181.78.21.206:8000/play/a09f/index.m3u8
 
@@ -643,16 +642,19 @@ https://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mycinema_ver1.png" group-title="PREMIUM CHANNEL", MY CINEMA
+https://anevia114.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 http://rr.dens.tv/h/h192/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_myfamily_ver1.png" group-title="PREMIUM CHANNEL", MY FAMILY CHANNEL
+https://anevia114.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 http://rr.dens.tv/h/h194/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_new-mycinemaasia_small.png" group-title="PREMIUM CHANNEL", MY CINEMA ASIA
+https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 http://rr.dens.tv/h/h193/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/qYzCH8K/cinema-europe-logo-tv.jpg" group-title="PREMIUM CHANNEL", MY CINEMA EUROPE
