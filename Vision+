@@ -1,5 +1,4 @@
-#EXTM3U 
-
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml, https://weareblahs.github.io/epg/mytv.xml" refresh="3600"
 
 ***LOCAL***
 
@@ -719,7 +718,7 @@ https://images.indihometv.com/logogrey/grey_logo_mtvlive_ver1.png
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sY-DQW1bv8g/X7nfH6KXmfI/AAAAAAAAqQo/3JsGHnidyZk5JiRYrxtd7C8KKODCQGqEACLcBGAsYHQ/s0/nusantara-tv-channel-logo.png" group-title="MUSIC", NUSANTARA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdrhtf9/Smart-Select-20230611-122931-Picsart.jpg" group-title="MUSIC", NUSANTARA
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
