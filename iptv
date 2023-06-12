@@ -15,18 +15,22 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="LOCAL", NET
-https://cdn09jtedge.indihometv.com/dvr/139/net/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/nettv/manifest.mpd
  
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="LOCAL", RTV
 https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="LOCAL", RTV
+https://kusnadipepenk.github.io/campeign/rtv.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL", ANTV
 https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL", RCTI
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rcti/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOCAL", MNCTV
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/mnctv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOCAL", GTV
@@ -45,7 +49,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="LOCAL", MOJI
-https://cdn09jtedge.indihometv.com/dvr/139/moji/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/ochannel/manifest.mpd
 http://iptvid.my.id/hmm/ochannel.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="LOCAL", TVRI
