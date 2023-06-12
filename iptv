@@ -20,7 +20,6 @@ https://cdn09jtedge.indihometv.com/dvr/139/net/manifest.mpd
  
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="LOCAL", RTV
 https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="LOCAL", RTV
 https://kusnadipepenk.github.io/campeign/rtv.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL", ANTV
@@ -70,7 +69,7 @@ http://iptvid.my.id/hmm/useeprime.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 http://iptvid.my.id/hmm/rrinet.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="LOCAL", TV EDUKASI
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="LOCAL", TV EDUKASI
 https://cdn09jtedge.indihometv.com/dvr/139/tvedukasi/manifest.mpd
 http://iptvid.my.id/hmm/tvedukasi.m3u8 
 
@@ -90,7 +89,7 @@ http://iptvid.my.id/hmm/balitv.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
 http://iptvid.my.id/hmm/jaktv.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="LOCAL", JTV
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="LOCAL", JTV
 https://cdn09jtedge.indihometv.com/dvr/139/jtv/manifest.mpd
 http://iptvid.my.id/hmm/jtv.m3u8
 
@@ -110,14 +109,9 @@ http://iptvid.my.id/hmm/imc.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/dnln/manifest.mpd
 http://iptvid.my.id/hmm/dnln.m3u8
 
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_dunialain_small.png?v=2.0.0.13" group-title="LOCAL", DUNIA LAIN
-https://cdn09jtedge.indihometv.com/dvr/139/dunialain/manifest.mpd
-
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="LOCAL", BIOSKOP INDONESIA
-https://cdn09jtedge.indihometv.com/dvr/139/biosid/manifest.mpd
-http://iptvid.my.id/hmm/biosid.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="LOCAL", BIOSKOP INDONESIA
 https://cdn09jtedge.indihometv.com/dvr/139/bioskopindonesia/manifest.mpd
+http://iptvid.my.id/hmm/biosid.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_seatoday_ver1.png" group-title="LOCAL", SEA TODAY
 https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
