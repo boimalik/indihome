@@ -15,7 +15,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="LOCAL", NET
-https://cdn09jtedge.indihometv.com/dvr/139/nettv/manifest.mpd
+https://kusnadipepenk.github.io/campeign/netv.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/net/manifest.mpd
  
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="LOCAL", RTV
 https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
@@ -34,6 +35,7 @@ https://kusnadipepenk.github.io/campeign/mnc.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/mnctv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOCAL", GTV
+https://kusnadipepenk.github.io/campeign/global.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/gtv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOCAL", INEWS
@@ -135,15 +137,17 @@ http://iptvid.my.id/hmm/atv.m3u8
 
 ***KIDS***
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
+https://kusnadipepenk.github.io/campeign/amax.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/animax/manifest.mpd
 http://iptvid.my.id/hmm/animax.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS", ANIPLUS
+https://kusnadipepenk.github.io/campeign/anplus.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/aniplus/manifest.mpd
 http://iptvid.my.id/hmm/aniplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS",DREAMWORK
-https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
+https://kusnadipepenk.github.io/campeign/drmwk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS",DREAMWORK
 https://cdn09jtedge.indihometv.com/dvr/139/drmwrk/manifest.mpd
@@ -153,10 +157,12 @@ http://iptvid.my.id/hmm/drmwrk.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", NICK JUNIOR 
+https://kusnadipepenk.github.io/campeign/nika.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/nickjr/manifest.mpd
 http://iptvid.my.id/hmm/nickjr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", NICKELODEON
+https://kusnadipepenk.github.io/campeign/nike.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/nickelodeon/manifest.mpd
 http://iptvid.my.id/hmm/nickelodeon.m3u8
 
@@ -165,6 +171,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/babyfirst/manifest.mpd
 http://iptvid.my.id/hmm/babyfirst.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", BOOMERANG
+https://kusnadipepenk.github.io/ntn/boom.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/boomerang/manifest.mpd
 http://iptvid.my.id/hmm/boomerang.m3u8
 
@@ -177,6 +184,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/duniaanak/manifest.mpd
 http://iptvid.my.id/hmm/duniaanak.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", CARTOON NETWORK 
+https://kusnadipepenk.github.io/ntn/cn.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/cn/manifest.mpd
 http://iptvid.my.id/hmm/cn.m3u8
 
@@ -184,6 +192,7 @@ http://iptvid.my.id/hmm/cn.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/cartoonnetwork/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_small.png" group-title="KIDS", INDIKIDS  
+https://kusnadipepenk.github.io/campeign/kid.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 http://iptvid.my.id/hmm/indikids.m3u8
 
@@ -193,9 +202,9 @@ http://tvn.x10.mx/1/master-8.m3u8?dl=1
 http://tvlive.my.id:25461/mat/mat/68
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="KIDS", MY KIDS
+http://rr.dens.tv/h/h191/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/mkidz/manifest.mpd
 http://iptvid.my.id/hmm/mkidz.m3u8
-http://rr.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376977_duck-tv-duck-tv.png" group-title="KIDS",Duck TV 
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -221,7 +230,7 @@ http://tvn.x10.mx/1/master-4.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY CHANNEL
 http://iptvtree.net:8080/ace2524d/15a571c413/165075
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
-http://iptvtree.net:8080/ace2524d/15a571c413/162511
+https://kusnadipepenk.github.io/ntn/disn.m3u8
 
 
 ***KNOWLEDGE***
@@ -302,24 +311,29 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/221948
 #EXTINF:-1 tvg-id="414.astro" tvg-logo="https://i.imgur.com/Okzj190.png" group-title="PREMIUM CHANNEL",HBO Family HD
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197055
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/g2gBC2rC/20230519-230619.jpg" group-title="PREMIUM CHANNEL",Cinemax (T*) 
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="PREMIUM CHANNEL", TVN MOVIES 
+https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/tvnmovies/manifest.mpd
 http://iptvid.my.id/hmm/tvnmovie.m3u8
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="PREMIUM CHANNEL", TVN 
+https://kusnadipepenk.github.io/campeign/tvn.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/tvn/manifest.mpd
 http://iptvid.my.id/hmm/tvn.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png?v=2.5" group-title="PREMIUM CHANNEL", ROCK ENTERTAINMENT
+https://kusnadipepenk.github.io/campeign/bluent.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rockentertainment/manifest.mpd
 http://iptvid.my.id/hmm/rock.m3u8
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantext_small.png?v=2" group-title="PREMIUM CHANNEL", ROCK EXTREME
+https://kusnadipepenk.github.io/campeign/bluext.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rockaction/manifest.mpd
 http://iptvid.my.id/hmm/rockext.m3u8
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
@@ -329,38 +343,46 @@ https://cdn09jtedge.indihometv.com/dvr/139/paramount/manifest.mpd
 http://iptvid.my.id/hmm/paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", WARNER 
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/warner/manifest.mpd
 http://iptvid.my.id/hmm/wrnr.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_galaxy_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", GALAXY
+https://kusnadipepenk.github.io/campeign/galaxy.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/galaxy/manifest.mpd
 http://iptvid.my.id/hmm/galaxy.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_galaxypremium_small.png" group-title="PREMIUM CHANNEL", GALAXY PREMIUM
+https://kusnadipepenk.github.io/campeign/galaxypremium.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/galaxypremium/manifest.mpd
 http://iptvid.my.id/hmm/galaxypremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", KIX
+https://kusnadipepenk.github.io/campeign/kix.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/kix/manifest.mpd
 http://iptvid.my.id/hmm/kix.m3u8
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", K+ 
+https://kusnadipepenk.github.io/campeign/kplus.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
 http://iptvid.my.id/hmm/kplus.m3u8
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", GEM
-https://cdn09jtedge.indihometv.com/dvr/139/sonygem/manifest.mpd
+https://kusnadipepenk.github.io/ntn/sgem.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
 http://iptvid.my.id/hmm/sgem.m3u8
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", ONE 
-https://cdn09jtedge.indihometv.com/dvr/139/sonyone/manifest.mpd
+https://kusnadipepenk.github.io/campeign/sone.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/sone/manifest.mpd
 http://iptvid.my.id/hmm/sone.m3u8
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", AXN
+https://kusnadipepenk.github.io/ntn/axn.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/axn/manifest.mpd
 http://iptvid.my.id/hmm/axn.m3u8
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
@@ -369,21 +391,25 @@ http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES 
+https://kusnadipepenk.github.io/campeign/celmov.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/celestial/manifest.mpd
 http://iptvid.my.id/hmm/clstl.m3u8
 http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", ZEE BIOSKOP
+https://kusnadipepenk.github.io/campeign/zeeb.m3u8
 http://iptvid.my.id/hmm/zeeb.m3u8
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="PREMIUM CHANNEL", THRILL 
+https://kusnadipepenk.github.io/campeign/thril.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/thrill/manifest.mpd
 
 http://iptvid.my.id/hmm/thrill.m3u8
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_hits_ver1.png" group-title="PREMIUM CHANNEL", HITS
+https://kusnadipepenk.github.io/campeign/hit.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/hits/manifest.mpd
 http://iptvid.my.id/hmm/hits.m3u8
 
