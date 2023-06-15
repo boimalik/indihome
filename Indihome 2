@@ -64,7 +64,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BNTV_Indonesia.png" group-title="LOKAL NASIONAL",BN TV
-http://202.150.172.4:4000/play/bntv
+http://rr.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/tvri.png", TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
@@ -82,7 +82,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="LOKAL NASIONAL",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
+https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg" group-title="LOKAL NASIONAL",INDOSIANA TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/2.m3u8
@@ -110,7 +110,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg341production/ch389/02.m3u
 ########### LOKAL DAERAH ########
 
 #EXTINF:-1 tvg-id="AntaraTV.MACAN" tvg-name="AntaraTV.MACAN" group-title="LOKAL DAERAH" tvg-logo="https://cdn.macan.tv/img/antaratv.jpg", Antara
-http://180.211.90.134:8000/play/a040
+https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
 #EXTINF:-1 group-title="LOKAL DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",Radar tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
@@ -152,16 +152,18 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/02.m3u
 http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="LOKAL DAERAH",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 http://202.150.153.254/bandungtv720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL DAERAH",Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQWDIh0.png" group-title="LOKAL DAERAH",Banten TV
-https://v2.siar.us/barayatv/live/playlist.m3u8
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1559299828.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lhupa1J.png" group-title="LOKAL DAERAH",Batam TV
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_BBS_TV_2018.png" group-title="LOKAL DAERAH",BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
@@ -173,6 +175,7 @@ https://h1.intechmedia.net/intech/ch58.m3u8
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL DAERAH",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://o1.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="LOKAL DAERAH",Elshinta TV
@@ -182,6 +185,7 @@ http://rrelshinta.dens.tv/s/s10/index2.m3u8
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eGZB6u.png" group-title="LOKAL DAERAH",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 https://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMdwtbu.png" group-title="LOKAL DAERAH",JITV
@@ -263,7 +267,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149648
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/warnertv.png", GALAXY
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264773
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/warnertv.png", GALAXY PREMIUM http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264774
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/warnertv.png", GALAXY PREMIUM 
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264774
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/Universal_Channel.png", Universal Premier
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149649
@@ -290,8 +295,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264769
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", Bioskop Indonesia
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264801
 
-EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/flik.png", Flik
-http://180.211.90.134:8000/play/a050
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/flik.png", Flik
+http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="SinemaIndonesia.MACAN" tvg-name="SinemaIndonesia.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/sinema_indonesia.png", Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -391,12 +396,10 @@ EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scal
 http://221.120.219.118:9800/play/a143
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDRLdAm.png" group-title="MOVIES", &PRIVE
-http://221.120.219.118:9800/play/a149
-http://175.107.244.52:4455/play/a00x/index.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES", &FLIX
-http://221.120.219.118:9800/play/a13e
-http://175.107.244.52:4455/play/a011/index.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1212_1.png" group-title="MOVIES", STAR MOVIES
 http://175.107.244.52:4455/play/a01s/index.m3u8
@@ -429,19 +432,19 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png", Star Channel HD
 http://8.243.108.57:8000/play/a02x
 
-EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1081.1507600628.png" group-title="MOVIES",Sky Cinema Premier
+#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1081.1507600628.png" group-title="MOVIES",Sky Cinema Premier
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
 
-EXTINF:-1 tvg-id="SkyCinemaComedyHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png/1200px-Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="MOVIES",Sky Cinema Hits
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png/1200px-Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="MOVIES",Sky Cinema Hits
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79465&extension=ts&play_token=5aeBQPEM9S
 
-EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="MOVIES",Sky Cinema Action
+#EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="MOVIES",Sky Cinema Action
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
 
-EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://sender.epglogos.de/240x200/12132.png" group-title="MOVIES",Sky Cinema Sci-Fi Thriller
+#EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://sender.epglogos.de/240x200/12132.png" group-title="MOVIES",Sky Cinema Sci-Fi Thriller
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
 
-EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1081.1507600628.png" group-title="MOVIES",Sky Cinema Great
+#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1081.1507600628.png" group-title="MOVIES",Sky Cinema Great
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extension=ts&play_token=0n75sKKzYx
 
 
@@ -471,7 +474,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264753
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://cloud.jpnn.com/photo/arsip/watermark/2021/07/23/indikids-foto-tangkapan-layar-31.png", Indi Kids
-http://180.211.90.134:8000/play/a0a2
+https://beetv.my.id/x/usee-indikids-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.MACAN" tvg-name="BabyFirst.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/babyfirst.jpg", BabyFirst
 http://180.211.90.134:8000/play/a072
@@ -480,7 +483,7 @@ http://180.211.90.134:8000/play/a072
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157593
 
 #EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/dreamworks.png", Dreamworks
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/32529
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941656&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/boomerang.png", Boomerang
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165109
@@ -722,7 +725,8 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 http://87.212.248.44:60150/play/a0az/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://cdn.macan.tv/img/tlc.png",TLC
-http://180.211.90.134:8000/play/a07a
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3000
+http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hgtv.png" group-title="ENTERTAINMENT & LIFESTYLE",HGTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
@@ -869,6 +873,7 @@ http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 
 #EXTINF:-1 tvg-id="Erz.Badartv" group-title="RELIGI" tvg-logo="https://www.brtv.co.id/wp-content/uploads/2022/04/LOGO-BRTV-ORIGINAL.png",Badar TV
+https://e1.siar.us/badartv/live/playlist.m3u8
 https://e1.siar.us/badartv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/rodjatv.png" group-title="RELIGI",RODJA TV
