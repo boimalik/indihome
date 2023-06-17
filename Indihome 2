@@ -479,8 +479,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extens
 #EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1081.1507600628.png" group-title="MOVIES", Sky Cinema Great
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extension=ts&play_token=0n75sKKzYx
 
-
-
 ########KIDS######
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/400px-Mentari_TV.png", Mentari TV
@@ -605,7 +603,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/natgeowild.png" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC WILD
 http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/t/15/assets/logo-image-file.png?v=158202363238024051661620654517" group-title="KNOWLEDGE",PEOPLE AWESOME
+EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/t/15/assets/logo-image-file.png?v=158202363238024051661620654517" group-title="KNOWLEDGE",PEOPLE AWESOME
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="KNOWLEDGE", TECHSTORM
@@ -639,7 +637,7 @@ https://beetv.my.id/x/usee-ikonser-gojokkk.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="MUSIC", Music TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165108
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJA7M8R.png" group-title="MUSIC", Maleo
+EXTINF:-1 tvg-logo="https://i.imgur.com/DJA7M8R.png" group-title="MUSIC", Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="MUSIC", Prambors
