@@ -10,10 +10,11 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png", INDOSIAR
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/162138
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/162138
 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/sctv.png", SCTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://static.epg.best/id/RCTI.id.png", RCTI
@@ -25,8 +26,10 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165054
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/gtv.png", GTV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157578
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157578
 
 #EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="iNewsTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/inews.png", iNEWS
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157579
@@ -123,6 +126,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF:-1 group-title="LOKAL DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165091
 http://rr3.dens.tv/s/s91/index.m3u8
 http://180.211.90.134:8000/play/a03z
 
@@ -254,7 +258,11 @@ http://175.107.244.52:4457/play/a07q/index.m3u8
 http://175.107.244.52:4457/play/a07r/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197972
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO
+https://s.id/1LcSL
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
@@ -263,6 +271,7 @@ http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/221948
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax
@@ -276,18 +285,22 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157594
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149648
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png", GALAXY
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264773
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264773
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png", GALAXY PREMIUM 
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264774
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264774
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/paramount.png", Paramount Network
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 
 #EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/imc.jpg", IMC
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264769
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264769
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", Bioskop Indonesia
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264801
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264801
 
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/flik.png", Flik
@@ -330,6 +343,7 @@ EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.ibb.co/xs37yJ8/boo-removebg-previe
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/boo
 
 #EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXNHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/axn.png", AXN
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157542
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165079
 
 #EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="BlueAntEntertainment.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png", Rock Entertainment
@@ -339,9 +353,6 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 #EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="BlueAntExtreme.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/blue_ant_extreme.png", Rock Action
 http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298490
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/syfy-logo-243F5B37C0-seeklogo.com.png" group-title="MOVIES",Syfy
-http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149655
 
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/tvn.png", tvN
 http://rr1.dens.tv/h/h20/index.m3u8
@@ -383,6 +394,8 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298504
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/animax.png", Animax
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683165&extension=m3u8&play_token=xdbt7BgLik
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157486
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165081
 
 #EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="Zee.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/zeebioskop.png", ZEE Bioskop
@@ -425,19 +438,26 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png", Space
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149643
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/syfy-logo-243F5B37C0-seeklogo.com.png" group-title="MOVIES",Syfy
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149655
+
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.freepnglogos.com/uploads/tnt-logo-png-28.png", TNT
 http://201.219.223.101:46000/play/a00g
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298527
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298528
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298529
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png", Star Channel HD
@@ -475,9 +495,6 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298536
 http://rr.dens.tv/h/h191/index.m3u8
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg", B Kids
-http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-
 #EXTINF:-1 tvg-id="DuniaAnak.MACAN" tvg-name="DuniaAnak.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/duniaanak.png", Dunia Anak
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264753
 
@@ -495,6 +512,7 @@ http://180.211.90.134:8000/play/a072
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157593
 
 #EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/dreamworks.png", Dreamworks
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157610
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941656&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/boomerang.png", Boomerang
@@ -525,9 +543,10 @@ https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg", Biznet Kids
 https://bit.ly/3wktP4Z
+http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-id="Lingua.MACAN" tvg-name="Lingua.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/lingua.png", Lingua
-http://180.211.90.134:8000/play/a06q
+http://beetv.my.id/x/usee-lingua-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest/scale-to-width-down/386?cb=20220221213805" group-title="KIDS",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
