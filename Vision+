@@ -187,7 +187,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 http://iptvid.my.id/hmm/antara.m3u8
 
-EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 
 EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="LOCAL", ATV
@@ -354,6 +354,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298546
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298546
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 http://103.166.27.2:800/play/a018
@@ -406,6 +407,7 @@ EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376977_duck-tv-du
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/476248/screenshots/1466065/lego_1.gif" group-title="KIDS",Lego Channel 
+https://i.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lty2VTw/moonbug-kids-logo.jpg" group-title="KIDS", MOONBUG KIDS
@@ -609,9 +611,11 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantext_small.png?v=2" group-title="MOVIES", ROCK ACTION
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
 http://rr1.dens.tv/h/h15/01.m3u8
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+##https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
