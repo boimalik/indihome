@@ -20,12 +20,12 @@ https://kusnadipepenk.github.io/campeign/indos.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR (trans)
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR (trans)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR (MNC)
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR (MNC)
 https://anevia114.mncnow.id/live/eds/Indosiar-2/sa_dash_vmx/Indosiar-2.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR (indihome)
@@ -37,12 +37,12 @@ https://kusnadipepenk.github.io/campeign/sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL", SCTV (trans)
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL", SCTV (trans)
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL", SCTV (MNC)
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL", SCTV (MNC)
 https://anevia114.mncnow.id/live/eds/SCTV-2/sa_dash_vmx/SCTV-2.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL", SCTV (indihome)
@@ -289,6 +289,11 @@ http://210.210.155.35:80/uq2663/h/h01/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_lifetime_small.png" group-title="ENTERTAINMENT", LIFETIME
 https://anevia114.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SfncfNj/18-07-2023-23-02-47.png" group-title="ENTERTAINMENT", GLOBAL TREKKER
+http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+
+
+
 ***KIDS***
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -306,11 +311,13 @@ http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", DREAMWORKS
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157610
 https://anevia114.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941656&extension=ts&play_token=1kEm8DbZmS
 https://satvb.my.id/vsn/visio.mpd?id=62877
 http://181.78.21.206:8000/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", DREAMWORKS
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157610
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw 
@@ -414,8 +421,6 @@ http://ae2.aatvbox.club:8880/12mk160078/31623992/60448
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.salamus1.lol/lb/premium312/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
 http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/625
 https://stream.sarapan.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
@@ -552,7 +557,7 @@ https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -627,7 +632,7 @@ http://210.210.155.35:80/uq2663/h/h143/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", CINEMA WORLD 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", CINEMAWORLD 
 https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8 
 
@@ -722,19 +727,19 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298527
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298528
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298529
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 
