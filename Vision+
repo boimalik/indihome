@@ -359,6 +359,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HIP HIP HOREE
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298536
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_small.png" group-title="KIDS", INDIKIDS 
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298539
 https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
