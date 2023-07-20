@@ -429,8 +429,6 @@ http://ae2.aatvbox.club:8880/12mk160078/31623992/60448
 https://webudit.salamus1.lol/lb/premium312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/625
-https://stream.sarapan.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/162511
 
 
@@ -743,22 +741,18 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298526
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298527
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298527
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298527
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298528
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298528
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298528
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298529
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298529
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 
@@ -780,6 +774,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_musikindo_small.png" group-title="MUSIC", MUSIK INDO
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 https://cdnjkthw.transvision.co.id/live/master/2/4028c685730a4243017317dee5df1572/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1000,6 +995,9 @@ https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_fightsport_small.png" group-title="SPORTS", FIGHT SPORTS
 https://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 http://rr1.dens.tv/h/h05/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/YfQRjZs/Picsart-23-07-20-15-16-23-603.jpg" group-title="SPORTS", IMPACT! WRESTLING
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_nba_small1.png?v=2.0.0.13" group-title="SPORTS", NBA
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
