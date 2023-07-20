@@ -27,16 +27,15 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165054
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/gtv.png", GTV
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157578
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="iNewsTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/inews.png", iNEWS
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157579
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/antv.png", ANTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/net.png", NET.
@@ -44,6 +43,7 @@ http://rr.dens.tv/h/h06/01.m3u8
 http://rr2.dens.tv/s/s08/index10.m3u8
 
 #EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/rtv.png", RTV
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI
@@ -290,7 +290,7 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157594
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149648
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/paramount.png", PARAMOUNT NETWORK
-http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png", GALAXY
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264773
@@ -316,9 +316,11 @@ http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hits.png", HITS
+http://rr1.dens.tv/h/h37/index.m3u8
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITSMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hits_movies.png", HITS Movies
+http://rr1.dens.tv/h/h38/index.m3u8
 http://210.210.155.37/dr9445/h/h38/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png", MY CINEMA EUROPE
@@ -414,7 +416,7 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/1KY7rjF.png", Zee Bollywood
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2013/08/pictures-top.jpg" group-title="MOVIES", &PICTURES
+EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2013/08/pictures-top.jpg" group-title="MOVIES", &PICTURES
 http://208.86.19.13:81/7055.stream/tracks-1,2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDRLdAm.png" group-title="MOVIES", &PRIVE
@@ -494,6 +496,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extens
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298546
 
 #EXTINF:-1 tvg-id="horee.MACAN" tvg-name="horee.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/horee.png", Horee
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264750
 
 #EXTINF:-1 tvg-id="horee.MACAN" tvg-name="horee.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/horee.png", Hip Hip Horee
@@ -619,6 +622,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 http://edge.linknetott.swiftserve.com/channelgroup1/cg027production/ch333/02.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png", NHK WORLD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/03.m3u8
 http://210.210.155.37/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang.MACAN" group-title="KNOWLEDGE" tvg-logo="https://cdn.macan.tv/img/arirang.png", ARIRANG
@@ -844,7 +848,7 @@ https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.macan.tv/img/bein_sports_2.png", beIN SPORTS 3 ID
 https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW4xMjMvU3VsdGFuMTIzMTIzLzM5NTUzLnRz|shareext@beinsports2id
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61ehNq.png"group-title="SPORTS", beIN SPORTS Xtra
+EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61ehNq.png" group-title="SPORTS", beIN SPORTS Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.macan.tv/img/useetv.png", Useesports 1
