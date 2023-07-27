@@ -421,18 +421,27 @@ EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/lo
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY CHANNEL
-http://208.86.19.13:81/14.stream/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium312/index.m3u8
+#http://208.86.19.13:81/14.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY XD
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60448
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddylivehd.php?id=314 
+https://rawcdn.githack.com/broto121/ali/main/dx.m3u8
+#http://ae2.aatvbox.club:8880/12mk160078/31623992/60448
 #http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157544
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium312/index.m3u8
+#https://webudit.salamus1.lol/lb/premium312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
-http://iptvtree.net:8080/ace2524d/15a571c413/162511
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddylivehd.php?id=312 
+https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
+#http://iptvtree.net:8080/ace2524d/15a571c413/162511
 
 
 ***KNOWLEDGE***
