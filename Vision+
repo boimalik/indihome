@@ -159,7 +159,6 @@ http://rr.dens.tv/h/h11/S4/mnf.m3u8
 https://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FgcSqYZ/Smart-Select-20230610-162016-Picsart.jpg" group-title="LOCAL", THE INDONESIA CHANNEL
-https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -184,7 +183,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 http://iptvid.my.id/hmm/antara.m3u8
 
-#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 http://103.156.71.22:8000/play/a0de/index.m3u8
 
@@ -264,7 +263,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 https://anevia114.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_flik_big1.png?v=2.0.0.13" group-title="ENTERTAINMENT", FLIK
-https://github.com/thefirefox12537/streams/raw/4cbe7c3f1a2b7ffeb19b0e54f04c845ac60db3a8/flik_playback.m3u8
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165095
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165095
 http://beetv.my.id/x/usee-flik-gojokkk.m3u8
