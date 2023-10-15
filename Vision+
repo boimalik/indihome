@@ -101,6 +101,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="LOCAL", MOJI
+http://tvnid.x10.mx/vidio/master-3.m3u8
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
 http://rr2.dens.tv/s/s41/index.m3u8
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
@@ -428,6 +429,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298536
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_small.png" group-title="KIDS", INDIKIDS 
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298539
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 http://iptvid.my.id/hmm/indikids.m3u8
 
@@ -493,13 +495,12 @@ EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/lo
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY CHANNEL
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165075
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 https://webudit.cdnhks.lol/lb/premium312/index.m3u8
 #http://208.86.19.13:81/14.stream/index.m3u8
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165075
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
-
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -676,10 +677,16 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197964
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=https://cubmupart4.apiv2x.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER TV
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157594
-#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
+#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER TV
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/2605/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -784,7 +791,11 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&exten
 http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 http://kunyak.my.id/sok/starchinesechannel.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", BOO
+https://astro.kutubusuk.workers.dev/dash-wv/linear/2407/default_ott.mpd
+https://maper.info/BOO-SHAREEXT-ts
 https://ktpremium.com:443/A0112/8544/26011
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -866,11 +877,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/pJ0tqL1/Cinemachi-xtra.jpg", CINEMACHI XTRA
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", STAR MOVIES
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/66643_star-movies-1.png.jpg" group-title="MOVIES", STAR MOVIES
 https://link.zozotv.xyz:443/FR433/KKFz7/300
-https://astro.kutubusuk.workers.dev/dash-wv/linear/2407/default_ott.mpd
-https://maper.info/BOO-SHAREEXT-ts
-https://ktpremium.com:443/A0112/8544/26011
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -963,6 +971,8 @@ http://tvkuonline.my.id:25461/riyad/riyad/424
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES HBO", WARNER TV
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157594
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157594
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157594
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1186,13 +1196,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=TVRI_Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="SPORTS", SCTV (LIVE LIGA)
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="SPORTS", SCTV (LIVE LIGA)
+http://103.166.27.2:8112/play/a015/index.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://103.166.27.2:800/play/a015
-EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="SPORTS", INDOSIAR (LIVE LIGA)
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="SPORTS", INDOSIAR (LIVE LIGA)
+http://103.166.27.2:8112/play/a016/index.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://103.166.27.2:800/play/a016
-EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="SPORTS", MOJI (LIVE SPORTS)
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="SPORTS", MOJI (LIVE SPORTS)
+http://103.166.27.2:8112/play/a017/index.m3u8
 http://mpwtv.my.id/vidioye/206-moji.m3u8
 http://103.166.27.2:800/play/a017
 
@@ -1227,12 +1240,14 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 1
+https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165105
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
 http://iptvid.my.id/hmm/bskunyak1.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/100
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 3
+https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
 http://iptvid.my.id/hmm/bskunyak2.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/101
