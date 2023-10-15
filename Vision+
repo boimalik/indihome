@@ -212,7 +212,8 @@ http://iptvid.my.id/hmm/antara.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="LOCAL", RRI NET
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
-EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+https://kametv.my.id/putar/vivatv.php
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 http://103.156.71.22:8000/play/a0de/index.m3u8
 
@@ -437,7 +438,8 @@ http://iptvid.my.id/hmm/indikids.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
+http://tvnid.x10.mx/vidio/master-3.m3u8
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
 #https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298546
 #http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298546
@@ -788,6 +790,9 @@ http://kunyak.my.id/sok/starchinesechannel.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/znpjtv57ts/boo/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", BOO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", BOO
+https://ktpremium.com:443/A0112/8544/26011
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
