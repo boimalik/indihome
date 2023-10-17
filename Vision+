@@ -214,6 +214,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 http://iptvid.my.id/hmm/antara.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="LOCAL", RRI NET
+https://rrinet.rri.co.id/hls/live.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
@@ -236,8 +237,9 @@ http://iptvid.my.id/hmm/atv.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_flik_big1.png?v=2.0.0.13" group-title="ENTERTAINMENT", FLIK
-https://link.zozotv.xyz:443/FR433/KKFz7/114
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165095
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
+https://link.zozotv.xyz:443/FR433/KKFz7/114
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165095
 http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
@@ -433,8 +435,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK 
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK 
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264753
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
@@ -444,6 +444,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298536
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_small.png" group-title="KIDS", INDIKIDS 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298539
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
@@ -759,6 +760,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="MOVIES", K-PLUS
+http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="MOVIES", GEM
@@ -1266,14 +1268,14 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 1
-https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/165105
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165105
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
 http://iptvid.my.id/hmm/bskunyak1.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/100
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 3
-https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298506
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
 http://iptvid.my.id/hmm/bskunyak2.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/101
