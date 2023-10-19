@@ -1049,13 +1049,22 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-id="musikindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png",Musik Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/YB1bkjj/Smart-Select-20230609-105725-Picsart.jpg", NAGASWARA
+https://kister.net/mpl/yt2m3u8?w=@nagaswarafmbgr
 https://ythls.onrender.com/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/YB1bkjj/Smart-Select-20230609-105725-Picsart.jpg", MUSICA STUDIOS
+https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
 https://ythls.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/YB1bkjj/Smart-Select-20230609-105725-Picsart.jpg", AQUARIUS MUSIKINDO
+https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvqrvCz/Picsart-23-06-27-05-09-13-806.jpg" group-title="MUSIC", PRAMBORS
