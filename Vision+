@@ -980,17 +980,6 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 **** MOVIES HBO *****
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIES HBO", HBO HD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="MOVIES HBO", Hbo Hits HD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="MOVIES HBO", Hbo family HD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="MOVIES HBO", Hbo signature HD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png"  group-title="MOVIES HBO", Cinemax HD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIES HBO", HBO HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197972
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="MOVIES HBO", Hbo Hits HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/196480
@@ -1000,6 +989,27 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197055
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/221948
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png"  group-title="MOVIES HBO", Cinemax HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197964
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD (Sg)
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png", HBO HITS HD (Sg)
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD (Sg)
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png", HBO SIGNATURE HD (Sg)
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD (Sg)
+https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
@@ -1030,52 +1040,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD (*)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD
-http://tvkuonline.my.id:25461/riyad/riyad/412
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png", HBO HITS HD
-http://tvkuonline.my.id:25461/riyad/riyad/413
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD
-http://tvkuonline.my.id:25461/riyad/riyad/415
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
-http://tvkuonline.my.id:25461/riyad/riyad/414
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD
-http://tvkuonline.my.id:25461/riyad/riyad/424
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD (Sg)
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png", HBO HITS HD (Sg)
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD (Sg)
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png", HBO SIGNATURE HD (Sg)
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD (Sg)
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/197972
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197972
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png", HBO HITS HD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/196480
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/196480
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/197055
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/221948
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/221948
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/197964
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES HBO", WARNER TV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
@@ -1543,35 +1507,6 @@ http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 
 CUbmu
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="HBO GRUP",HBO Family CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="HBO GRUP",HBO Signature CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HBO GRUP",HBO HITS CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="HBO GRUP",WARNER TV
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" tvg-name="" group-title="HBO GRUP",BIOKOP INDONESIA
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 new #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 old #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
