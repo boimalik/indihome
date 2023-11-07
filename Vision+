@@ -271,22 +271,27 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264801
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264801
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/x3zz67k/citra-bioskop-logo-tv.jpg", CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298519
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/YPqdz65/citra-drama-logo-tv.jpg", CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264748
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/wcRn4xy/citra-entertainment.jpg" , CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298520
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/DCqJHDw/Smart-Select-20230609-110015-Picsart.jpg", CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/247446
 http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/vDdYD80/Picsart-23-06-13-13-58-30-524.jpg", CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/02.m3u8
 #https://github.com/mimipipi22/nontontv/raw/main/FMX/cmuslim.m3u8
 
@@ -403,6 +408,7 @@ http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165109
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
 
@@ -425,6 +431,7 @@ EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnet
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157593
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/index.m3u8
 
@@ -437,6 +444,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 http://iptvid.my.id/hmm/babyfirst.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DA VINCI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
 http://iptvid.my.id/hmm/davinci.m3u8
 
@@ -467,6 +475,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264750
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264750
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
@@ -535,11 +544,11 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lty2VTw/moonbug-kids-logo.jpg" group-title="KIDS", MOONBUG KIDS
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS JR
+EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS JR
 https://cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS
+EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS
 https://cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8
 https://happykids-vizio.amagi.tv/playlist.m3u8
 
@@ -547,6 +556,8 @@ EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/lo
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY CHANNEL
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=396314&extension=m3u8
+
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165075
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -567,6 +578,8 @@ https://rawcdn.githack.com/broto121/ali/main/dx.m3u8
 #https://webudit.salamus1.lol/lb/premium312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddylivehd.php?id=312 
 https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
@@ -658,6 +671,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264765
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx0dvYs/Picsart-23-07-19-11-28-29-508.jpg" group-title="KNOWLEDGE", FOOD NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indonesiana_ver1.png" group-title="KNOWLEDGE", INDONESIANA
@@ -667,6 +681,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rf88s6g/Picsart-23-07-19-11-36-16-934.jpg" group-title="KNOWLEDGE", LIFESTYLE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_techstorm_ver1.png" group-title="KNOWLEDGE", TECHSTORM
@@ -756,6 +771,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES", PARAMOUNT NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298564
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1383,10 +1399,12 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 http://89.187.175.143:80/3028/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/QdvbGVh/Picsart-23-07-19-11-08-42-621.jpg" group-title="SPORTS", EURO SPORTS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/03.m3u8
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/TrrVdzn/Picsart-23-07-19-11-18-59-445.jpg" group-title="SPORTS", PREMIER SPORTS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/03.m3u8
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 
