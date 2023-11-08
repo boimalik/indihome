@@ -232,8 +232,8 @@ https://rrinet.rri.co.id/hls/live.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
-https://kametv.my.id/putar/vivatv.php
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
+https://kametv.my.id/putar/vivatv.php
 http://103.156.71.22:8000/play/a0de/index.m3u8
 
 EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="LOCAL", ATV
@@ -1222,6 +1222,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jyKv1mh/Smart-Select-20230610-160356-Picsart.jpg" group-title="RELIGI", ASSUNAH ANABAWI
+http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 http://rr2.dens.tv/s/s27/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1255,6 +1256,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="RELIGI", RODJA TV
+http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 http://rr2.dens.tv/s/s14/01.m3u8
 http://210.210.155.37/qwr9ew/s/s14/01.m3u8
@@ -1366,10 +1368,12 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
 http://iptvid.my.id/hmm/nba.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298577
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298577
 http://iptvid.my.id/hmm/useetl1.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298577
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298578
 http://iptvid.my.id/hmm/useetl2.m3u8
 
@@ -1399,6 +1403,9 @@ http://190.61.43.117:45000/play/a01g
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157488
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 http://89.187.175.143:80/3028/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_new-horizonsport_small.png" group-title="SPORTS", HORISON SPORTS
+https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/QdvbGVh/Picsart-23-07-19-11-08-42-621.jpg" group-title="SPORTS", EURO SPORTS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
