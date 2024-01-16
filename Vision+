@@ -231,7 +231,7 @@ https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 https://kametv.my.id/putar/vivatv.php
 http://103.156.71.22:8000/play/a0de/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="LOCAL", ATV
+EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="LOCAL", ATV
 https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 http://iptvid.my.id/hmm/atv.m3u8
@@ -389,7 +389,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png" group-title="ENTERTAINMENT", HITS NOW
-https://cdn08jtedge.indihometv.com/dassdvr/133/hitsnow/manifest.mpd 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/hitsnow/manifest.mpd
+
 
 ***KIDS***
 
@@ -448,7 +453,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 http://iptvid.my.id/hmm/babyfirst.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DA VINCI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -657,7 +665,6 @@ EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eatgo_small1.png?v=2.0.0.13" 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eatgo_small1.png?v=2.0.0.13" group-title="KNOWLEDGE", EAT&GO
-https://cdn08jtedge.indihometv.com/dassdvr/134/eatngo/manifest.mpd
 http://iptvtree.net:8080/F26646/f950f250/264765
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx0dvYs/Picsart-23-07-19-11-28-29-508.jpg" group-title="KNOWLEDGE", FOOD NETWORK
@@ -665,12 +672,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index
 http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indonesiana_ver1.png" group-title="KNOWLEDGE", INDONESIANA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="KNOWLEDGE", ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="KNOWLEDGE", CURIOSITY
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
@@ -1093,7 +1103,7 @@ https://cdnjkthw.transvision.co.id/live/master/2/4028c685730a4243017317dee5df157
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/Ykcf7Gx/Smart-Select-20230610-155814-Picsart.jpg" group-title="MUSIC", DISCO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ykcf7Gx/Smart-Select-20230610-155814-Picsart.jpg" group-title="MUSIC", DISCO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
@@ -1142,8 +1152,11 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 http://hz1.teleport.cc/HLS/HD.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="MUSIC", I-KONSER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="MUSIC", I-KONSER
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/ikonser/manifest.mpd
 
 *** NEWS ***
@@ -1345,6 +1358,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K0ygGrr/Smart-Select-20230610-153955-Picsart.jpg" group-title="SPORTS", MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 http://rr.dens.tv/h/h09/01.m3u8
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="SPORTS", CHAMPION TV 1
