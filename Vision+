@@ -231,7 +231,7 @@ https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 https://kametv.my.id/putar/vivatv.php
 http://103.156.71.22:8000/play/a0de/index.m3u8
 
-EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="LOCAL", ATV
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="LOCAL", ATV
 https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 http://iptvid.my.id/hmm/atv.m3u8
@@ -387,6 +387,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SfncfNj/18-07-2023-23-02-47.png" group-title="ENTERTAINMENT", GLOBAL TREKKER
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png" group-title="ENTERTAINMENT", HITS NOW
+https://cdn08jtedge.indihometv.com/dassdvr/133/hitsnow/manifest.mpd 
 
 ***KIDS***
 
@@ -654,6 +657,7 @@ EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eatgo_small1.png?v=2.0.0.13" 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eatgo_small1.png?v=2.0.0.13" group-title="KNOWLEDGE", EAT&GO
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatngo/manifest.mpd
 http://iptvtree.net:8080/F26646/f950f250/264765
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx0dvYs/Picsart-23-07-19-11-28-29-508.jpg" group-title="KNOWLEDGE", FOOD NETWORK
@@ -666,6 +670,9 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="KNOWLEDGE", ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="KNOWLEDGE", CURIOSITY
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rf88s6g/Picsart-23-07-19-11-36-16-934.jpg" group-title="KNOWLEDGE", LIFESTYLE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
@@ -971,23 +978,18 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
 http://iptvtree.net:8080/F26646/f950f250/298526
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
 http://iptvtree.net:8080/F26646/f950f250/298527
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
 http://iptvtree.net:8080/F26646/f950f250/298528
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
 http://iptvtree.net:8080/F26646/f950f2500/298529
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 3
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 4
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
 
 
@@ -1091,6 +1093,10 @@ https://cdnjkthw.transvision.co.id/live/master/2/4028c685730a4243017317dee5df157
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
+EXTINF:-1 tvg-logo="https://i.ibb.co/Ykcf7Gx/Smart-Select-20230610-155814-Picsart.jpg" group-title="MUSIC", DISCO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1138,7 +1144,7 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="MUSIC", I-KONSER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/ikonser/manifest.mpd
 
 *** NEWS ***
 
@@ -1365,11 +1371,9 @@ http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157488
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 http://89.187.175.143:80/3028/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_new-horizonsport_small.png" group-title="SPORTS", HORISON SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
 https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/QdvbGVh/Picsart-23-07-19-11-08-42-621.jpg" group-title="SPORTS", EURO SPORTS
