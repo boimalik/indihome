@@ -203,81 +203,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 http://iptvid.my.id/hmm/atv.m3u8
 
-***LOCAL 2***
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="LOCAL 2", TRANS TV
-https://playlist-coffee.my.id/oxy/transtv.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOCAL 2", TRANS 7
-https://playlist-coffee.my.id/oxy/trans7.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOCAL 2", INDOSIAR
-https://playlist-coffee.my.id/oxy/indosiar.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL 2", SCTV
-https://playlist-coffee.my.id/oxy/sctv.m3u8
-
-EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL 2", RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOCAL 2", MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOCAL 2", GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOCAL 2", INEWS
-https://playlist-coffee.my.id/oxy/inews.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png" group-title="LOCAL 2", NET TV
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_rtv_small1.png" group-title="LOCAL 2", RTV
-https://playlist-coffee.my.id/oxy/rtv.m3u8
-
-EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL 2", ANTV
-https://playlist-coffee.my.id/oxy/antv.m3u8
-
-EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="LOCAL 2", MOJI
-https://playlist-coffee.my.id/oxy/moji.m3u8
-
-EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL 2", TVONE
-https://playlist-coffee.my.id/oxy/tvone.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png" group-title="LOCAL 2", METRO TV
-https://playlist-coffee.my.id/oxy/metrotv.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_kompastv_small1.png" group-title="LOCAL 2", KOMPAS TV
-https://playlist-coffee.my.id/oxy/kompastv.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="LOCAL 2", TVRI
-https://playlist-coffee.my.id/oxy/tvri.m3u8
-
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="LOCAL 2", TVRI SPORT
-http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-
-EXTINF:-1 group-title="LOCAL 2" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
-https://playlist-coffee.my.id/oxy/vtv.m3u8
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/n63scSD/JAK-TV.jpg" group-title="LOCAL 2", JAK TV
-https://playlist-coffee.my.id/oxy/jaktv.m3u8
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/JktG4cJ/DAAI-TV.jpg" group-title="LOCAL 2", DAAI TV
-https://playlist-coffee.my.id/oxy/daaitv.m3u8
-
-EXTINF: -1 tvg-logo="https://i.ibb.co/bKPKFnt/IDX.jpg" group-title="LOCAL 2", IDX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/KNnYpzj/Picsart-23-07-19-10-49-59-499.jpg" group-title="LOCAL 2", GARUDA TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
-
-
 ***ENTERTAINMENT***
 
 
@@ -980,7 +905,7 @@ http://iptvtree.net:8080/F26646/f950f250/298528
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
-http://iptvtree.net:8080/F26646/f950f2500/298529
+http://iptvtree.net:8080/F26646/f950f250/298529
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
 
 
@@ -1481,3 +1406,105 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 ====================================================================================================
+
+***ALTERNATIVE***
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="ALTERNATIVE", TRANS TV
+https://link.zozotv.xyz:443/rozila969/abc12345/43
+https://playlist-coffee.my.id/oxy/transtv.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png" group-title="ALTERNATIVE", TRANS 7
+https://link.zozotv.xyz:443/rozila969/abc12345/44
+https://playlist-coffee.my.id/oxy/trans7.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="ALTERNATIVE", INDOSIAR
+https://link.zozotv.xyz:443/rozila969/abc12345/45
+https://playlist-coffee.my.id/oxy/indosiar.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="ALTERNATIVE", SCTV
+https://link.zozotv.xyz:443/rozila969/abc12345/46
+https://playlist-coffee.my.id/oxy/sctv.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="ALTERNATIVE", RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="ALTERNATIVE", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="ALTERNATIVE", GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="ALTERNATIVE", INEWS
+https://link.zozotv.xyz:443/rozila969/abc12345/476
+https://playlist-coffee.my.id/oxy/inews.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png" group-title="ALTERNATIVE", NET TV
+https://link.zozotv.xyz:443/rozila969/abc12345/50
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_rtv_small1.png" group-title="ALTERNATIVE", RTV
+https://playlist-coffee.my.id/oxy/rtv.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="ALTERNATIVE", ANTV
+https://link.zozotv.xyz:443/rozila969/abc12345/51
+https://playlist-coffee.my.id/oxy/antv.m3u8
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="ALTERNATIVE", MOJI
+http://rr3.dens.tv/s/s41/index.m3u8
+https://playlist-coffee.my.id/oxy/moji.m3u8
+EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="ALTERNATIVE", TVONE
+https://playlist-coffee.my.id/oxy/tvone.m3u8
+EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png" group-title="ALTERNATIVE", METRO TV
+https://playlist-coffee.my.id/oxy/metrotv.m3u8
+EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_kompastv_small1.png" group-title="ALTERNATIVE", KOMPAS TV
+https://playlist-coffee.my.id/oxy/kompastv.m3u8
+EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="ALTERNATIVE", TVRI
+https://playlist-coffee.my.id/oxy/tvri.m3u8
+EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="ALTERNATIVE", TVRI SPORT
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+#EXTINF:-1 group-title="ALTERNATIVE" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+https://link.zozotv.xyz:443/rozila969/abc12345/59
+https://playlist-coffee.my.id/oxy/vtv.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/n63scSD/JAK-TV.jpg" group-title="ALTERNATIVE", JAK TV
+https://playlist-coffee.my.id/oxy/jaktv.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/JktG4cJ/DAAI-TV.jpg" group-title="ALTERNATIVE", DAAI TV
+https://playlist-coffee.my.id/oxy/daaitv.m3u8
+
+EXTINF: -1 tvg-logo="https://i.ibb.co/bKPKFnt/IDX.jpg" group-title="ALTERNATIVE", IDX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/KNnYpzj/Picsart-23-07-19-10-49-59-499.jpg" group-title="ALTERNATIVE", GARUDA TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="ALTERNATIVE", HBO HD
+https://link.zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="ALTERNATIVE", Hbo family HD
+https://link.zozotv.xyz:443/rozila969/abc12345/98
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="ALTERNATIVE", Hbo Hits HD
+https://link.zozotv.xyz:443/rozila969/abc12345/97
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="ALTERNATIVE", Hbo signature HD
+https://link.zozotv.xyz:443/rozila969/abc12345/99
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png"  group-title="ALTERNATIVE", Cinemax HD
+https://link.zozotv.xyz:443/rozila969/abc12345/107
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg" group-title="ALTERNATIVE", &PRIVE
+https://link.zozotv.xyz:443/rozila969/abc12345/104
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7X9cK8/Galaxy.jpg" group-title="ALTERNATIVE", GALAXY
+https://link.zozotv.xyz:443/rozila969/abc12345/108
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmkFHzS/Galaxy-Premium.jpg" group-title="ALTERNATIVE", GALAXY PREMIUM
+https://link.zozotv.xyz:443/rozila969/abc12345/109
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5g9X8J/Hits-Movies.jpg" group-title="ALTERNATIVE", HITS MOVIES
+https://link.zozotv.xyz:443/rozila969/abc12345/110
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="ALTERNATIVE", CINEMAWORLD 
+https://link.zozotv.xyz:443/rozila969/abc12345/111
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="ALTERNATIVE", THRILL 
+https://link.zozotv.xyz:443/rozila969/abc12345/112
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3pKq8bd/IMC.jpg" group-title="ALTERNATIVE", IMC
+https://link.zozotv.xyz:443/rozila969/abc12345/113
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgHLxbz/FLIK.jpg" group-title="ALTERNATIVE", FLIK
+https://link.zozotv.xyz:443/rozila969/abc12345/114
