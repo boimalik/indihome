@@ -244,7 +244,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/x3zz67k/citra-bioskop-logo-tv.jpg", CITRA BIOSKOP
-https://cdn08jtedge.indihometv.com/dassdvr/130/cbioskop/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/citrabioskop/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298519
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
@@ -262,7 +262,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298520
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/DCqJHDw/Smart-Select-20230609-110015-Picsart.jpg", CITRA DANGDUT
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdangdut/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/247446
 http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/02.m3u8
@@ -312,7 +312,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kJPKr86/INSERT.jpg" group-title="ENTERTAINMENT", INSERT
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="ENTERTAINMENT", I-KONSER
+EXTINF: -1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="ENTERTAINMENT", I-KONSER
 https://cdn08jtedge.indihometv.com/dassdvr/134/ikonser/manifest.mpd
 http://iptvtree.net:8080/F26646/f950f250/264766
 
@@ -354,12 +354,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SfncfNj/18-07-2023-23-02-47.png" group-title="ENTERTAINMENT", GLOBAL TREKKER
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXNZQf0/DIZI.jpg" group-title="ENTERTAINMENT", DIZI
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3dsdFzb/HITS-NOW.jpglogo-color.png" group-title="ENTERTAINMENT", HITS NOW
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
@@ -439,6 +433,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXNZQf0/DIZI.jpg" group-title="KIDS", DIZI
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -579,6 +579,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", DISCOVERY
+https://cdn08jtedge.indihometv.com/dassdvr/194/discovery/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157597
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
@@ -616,7 +617,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298535
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JdvRSn/AFN.jpg" group-title="KNOWLEDGE", ASIAN FOOD NETWORK
-https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/afc/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298503
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
