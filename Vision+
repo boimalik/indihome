@@ -385,7 +385,7 @@ http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", BOOMERANG
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58610.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/boomerang/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165109
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
@@ -454,6 +454,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264750
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264750
@@ -581,7 +582,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", DISCOVERY
-https://cdn08jtedge.indihometv.com/dassdvr/194/discovery/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157597
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
@@ -817,7 +818,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/9Y23w2J/star-chinese-movies.jpg", STAR CHINESE CHANNEL
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1715
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", BOO
