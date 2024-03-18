@@ -88,6 +88,7 @@ EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metro
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png" group-title="LOCAL", METRO TV
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165059
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,6 +97,7 @@ EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_kompa
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_kompastv_small1.png" group-title="LOCAL", KOMPAS TV
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165060
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -244,25 +246,31 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/x3zz67k/citra-bioskop-logo-tv.jpg", CITRA BIOSKOP
+EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/x3zz67k/citra-bioskop-logo-tv.jpg", CITRA BIOSKOP
 https://cdn08jtedge.indihometv.com/dassdvr/130/citrabioskop/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298519
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298519
+
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/YPqdz65/citra-drama-logo-tv.jpg", CITRA DRAMA
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264748
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264748
+
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/wcRn4xy/citra-entertainment.jpg" , CITRA ENTERTAINMENT
+EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/wcRn4xy/citra-entertainment.jpg" , CITRA ENTERTAINMENT
 https://cdn08jtedge.indihometv.com/dassdvr/130/centertainment/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298520
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298520
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/DCqJHDw/Smart-Select-20230609-110015-Picsart.jpg", CITRA DANGDUT
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/247446
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/247446
@@ -305,11 +313,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF: -1 tvg-logo="https://i.ibb.co/kJPKr86/INSERT.jpg" group-title="ENTERTAINMENT", INSERT
+EXTINF: -1 tvg-logo="https://i.ibb.co/kJPKr86/INSERT.jpg" group-title="ENTERTAINMENT", INSERT
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-EXTINF: -1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="ENTERTAINMENT", I-KONSER
-https://cdn08jtedge.indihometv.com/dassdvr/134/ikonser/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/kJPKr86/INSERT.jpg" group-title="ENTERTAINMENT", INSERT
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264766
 http://iptvtree.net:8080/F26646/f950f250/264766
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -385,13 +393,18 @@ http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=174569&exten
 https://cdn08jtedge.indihometv.com/dassdvr/130/boomerang/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165109
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165109
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", CARTOONITO
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", CARTOONITO
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", CARTOONITO
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165109
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -400,6 +413,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43f
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", CARTOON NETWORK
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/157593
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157593
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/index.m3u8
@@ -434,7 +448,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXNZQf0/DIZI.jpg" group-title="KIDS", DIZI
+EXTINF:-1 tvg-logo="https://i.ibb.co/zXNZQf0/DIZI.jpg" group-title="KIDS", DIZI
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK
@@ -451,11 +465,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HOREE
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264750
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", HIP HIP HOREE
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298536
 http://iptvtree.net:8080/F26646/f950f250/298536
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nBhpYXM/IndiKids.jpg" group-title="KIDS", INDIKIDS 
@@ -498,7 +514,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tsmRZVP/MIAOMI.jpg" group-title="KIDS", MIAOMI
+EXTINF:-1 tvg-logo="https://i.ibb.co/tsmRZVP/MIAOMI.jpg" group-title="KIDS", MIAOMI
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -519,14 +535,14 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376977_duck-tv-duck-tv.png" group-title="KIDS",Duck TV 
+EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376977_duck-tv-duck-tv.png" group-title="KIDS",Duck TV 
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS JR
+EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS JR
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 https://cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
@@ -534,7 +550,7 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS
+EXTINF:-1 tvg-logo="https://i.ibb.co/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 https://cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8
 https://happykids-vizio.amagi.tv/playlist.m3u8
@@ -550,6 +566,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=396314&exten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQL8SRw/Disney-XD.jpg" group-title="KIDS", DISNEY XD
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57232.m3u8
 http://iptvtree.net:8080/F26646/f950f250/276564
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/276564
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
@@ -577,7 +594,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE", NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE", LOVE NATURE
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -628,6 +645,7 @@ http://beetv.my.id/x/usee-lingua-gojokkk.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="KNOWLEDGE", HGTV
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298535
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298535
@@ -640,7 +658,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/7JdvRSn/AFN.jpg" group-title="KNOWLEDGE", A
 https://nyanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JdvRSn/AFN.jpg" group-title="KNOWLEDGE", ASIAN FOOD NETWORK
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57229.m3u8
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298503
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298503
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
@@ -653,13 +671,15 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk0TZ4t/Eat-amp-Go.jpg" group-title="KNOWLEDGE", EAT&GO
+EXTINF:-1 tvg-logo="https://i.ibb.co/Mk0TZ4t/Eat-amp-Go.jpg" group-title="KNOWLEDGE", EAT&GO
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/Mk0TZ4t/Eat-amp-Go.jpg" group-title="KNOWLEDGE", EAT&GO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk0TZ4t/Eat-amp-Go.jpg" group-title="KNOWLEDGE", EAT&GO
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264765
 http://iptvtree.net:8080/F26646/f950f250/264765
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx0dvYs/Picsart-23-07-19-11-28-29-508.jpg" group-title="KNOWLEDGE", FOOD NETWORK
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57229.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/03.m3u8
 
@@ -682,11 +702,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m
 http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BqB6MMt/TECHSTORM.jpg" group-title="KNOWLEDGE", TECHSTORM
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298572
 http://iptvtree.net:8080/F26646/f950f250/298572
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel%28abe4ead2-1a88-4330-9f41-382fcf94bba2%29/manifest.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
 http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
@@ -694,43 +716,63 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.co
 
 ***MOVIES***
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIES", HBO HD
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
+http://iptvtree.net:8080/F26646/f950f250/197972
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="MOVIES", Hbo family HD
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197055
+http://iptvtree.net:8080/F26646/f950f250/197055
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="MOVIES", Hbo Hits HD
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/196480
+http://iptvtree.net:8080/F26646/f950f250/196480
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="MOVIES", Hbo signature HD
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/221948
+http://iptvtree.net:8080/F26646/f950f250/221948
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png"  group-title="MOVIES", Cinemax HD
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197964
+http://iptvtree.net:8080/F26646/f950f250/197964
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="MOVIES", WARNER TV
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/157594
+http://iptvtree.net:8080/F26646/f950f250/157594
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD
+EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png", HBO HITS HD
+EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png", HBO HITS HD
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
+EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 #https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD
+EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD
+EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="MOVIES", WARNER TV
+EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="MOVIES", WARNER TV
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -740,7 +782,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ftWscw4/Paramount.jpg" group-title="MOVIES", PARAMOUNT NETWORK
+EXTINF:-1 tvg-logo="https://i.ibb.co/ftWscw4/Paramount.jpg" group-title="MOVIES", PARAMOUNT NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298564
 
@@ -806,6 +848,7 @@ http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="MOVIES", GEM
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298533
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
@@ -926,6 +969,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/66643_star-movies-1.png.jpg" group-title="MOVIES", STAR MOVIES
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m3u8
 http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 
@@ -941,18 +985,22 @@ http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298526
 http://iptvtree.net:8080/F26646/f950f250/298526
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298527
 http://iptvtree.net:8080/F26646/f950f250/298527
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298528
 http://iptvtree.net:8080/F26646/f950f250/298528
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298529
 http://iptvtree.net:8080/F26646/f950f250/298529
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
 
@@ -983,36 +1031,6 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="MOVIES HBO", WARNER TV
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="CHANNEL | HBO GRUB",HBO 
-https://servicebuss.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="CHANNEL | HBO GRUB",HBO Hits 
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="CHANNEL | HBO GRUB",HBO Family 
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CHANNEL | HBO GRUB",HBO Signature 
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="CHANNEL | HBO GRUB",Cinemax 
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
 ----------- HBO Maxstream ----------
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1035,18 +1053,32 @@ EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.pn
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
-EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIES HBO", HBO HD
-http://iptvtree.net:8080/F26646/f950f250/197972
-EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="MOVIES HBO", Hbo family HD
-http://iptvtree.net:8080/F26646/f950f250/197055
-EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="MOVIES HBO", Hbo Hits HD
-http://iptvtree.net:8080/F26646/f950f250/196480
-EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="MOVIES HBO", Hbo signature HD
-http://iptvtree.net:8080/F26646/f950f250/221948
-EXTINF:-1  tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png"  group-title="MOVIES HBO", Cinemax HD
-http://iptvtree.net:8080/F26646/f950f250/197964
-EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="MOVIES HBO", WARNER TV
-http://iptvtree.net:8080/F26646/f950f250/157594
+#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/hbo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="MOVIES HBO",HBO MAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/hbosign.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="MOVIES HBO",HBO Signature MAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/hbohits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="MOVIES HBO",HBO Hits MAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true 
+http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/hbofam.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="MOVIES HBO",HBO Family MAX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/CINEMAX.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="MOVIES HBO",Cinemax MAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
 
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
@@ -1107,6 +1139,7 @@ https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvqrvCz/Picsart-23-06-27-05-09-13-806.jpg" group-title="MUSIC", PRAMBORS
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264761
 http://iptvtree.net:8080/F26646/f950f250/264761
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1282,6 +1315,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 ***SPORTS***
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/gRBZ0bN/Smart-Select-20230610-161210-Picsart.jpg", TVRI SPORT
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/166686
 http://iptvtree.net:8080/F26646/f950f250/166686
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
