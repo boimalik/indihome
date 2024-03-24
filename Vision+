@@ -685,7 +685,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/03.m3u
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="KNOWLEDGE", TV KESEHATAN
+#EXTINF:-1 tvg-logo="https://sehatnegeriku.kemkes.go.id/wp-content/uploads/2021/05/TV-KESEHATAN.png" group-title="KNOWLEDGE", TV KESEHATAN
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
@@ -949,6 +949,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/66643_star-movies-1.png.jpg" group-title="MOVIES", STAR MOVIES
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m3u8
 http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
@@ -963,6 +964,9 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX
 http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://pbs.twimg.com/profile_images/1455040181753442315/el48-KeN_400x400.jpg", MOVIES NOW
+http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298526
