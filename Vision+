@@ -1546,11 +1546,13 @@ https://link.zozotv.xyz:443/rozila969/abc12345/44
 https://playlist-coffee.my.id/oxy/trans7.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="ALTERNATIVE", INDOSIAR
+https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
 http://startv365.com:80//live/D85A79B4/55A7743D/45098.ts
 https://link.zozotv.xyz:443/rozila969/abc12345/45
 https://playlist-coffee.my.id/oxy/indosiar.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="ALTERNATIVE", SCTV
+https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 http://startv365.com:80//live/D85A79B4/55A7743D/45099.ts
 https://link.zozotv.xyz:443/rozila969/abc12345/46
 https://playlist-coffee.my.id/oxy/sctv.m3u8
@@ -1578,6 +1580,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://playlist-coffee.my.id/oxy/inews.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png" group-title="ALTERNATIVE", NET TV
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/50
 
