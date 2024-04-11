@@ -15,6 +15,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOCAL", INDOSIAR
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOCAL", INDOSIAR (trans)
@@ -22,6 +23,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 https://nyanv-live-cdn.mncnow.id/live/eds/Indosiar-2/sa_dash_vmx/Indosiar-2.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL", SCTV
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL", SCTV (trans)
@@ -762,7 +764,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/ftWscw4/Paramount.jpg" group-title="MOVIES", PARAMOUNT NETWORK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftWscw4/Paramount.jpg" group-title="MOVIES", PARAMOUNT NETWORK
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=176904
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298564
 
@@ -1537,11 +1540,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff43
 ***ALTERNATIVE***
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="ALTERNATIVE", TRANS TV
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/43
 https://playlist-coffee.my.id/oxy/transtv.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png" group-title="ALTERNATIVE", TRANS 7
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/44
 https://playlist-coffee.my.id/oxy/trans7.m3u8
@@ -1588,7 +1593,8 @@ https://link.zozotv.xyz:443/rozila969/abc12345/50
 EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_rtv_small1.png" group-title="ALTERNATIVE", RTV
 https://playlist-coffee.my.id/oxy/rtv.m3u8
 
-EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="ALTERNATIVE", ANTV
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="ALTERNATIVE", ANTV
+https://streaming.indihometv.com/atm/DASH/antv/manifest.mpd
 https://link.zozotv.xyz:443/rozila969/abc12345/51
 https://playlist-coffee.my.id/oxy/antv.m3u8
 
