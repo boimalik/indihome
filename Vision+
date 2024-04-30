@@ -796,7 +796,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="Digione.id" tvg-logo="https://i.ibb.co/PzNW7Mh/Digione.jpg", DIGIONE
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Digione.id" tvg-logo="https://i.ibb.co/PzNW7Mh/Digione.jpg", DIGIONE
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
