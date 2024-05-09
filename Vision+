@@ -321,6 +321,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jMnXKwy/Picsart-23-06-12-23-01-03-508.jpg" group-title="ENTERTAINMENT", DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
@@ -1114,6 +1116,7 @@ http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298533
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
