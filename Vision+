@@ -284,7 +284,7 @@ http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 
-***ENTERTAINMENT***
+***ENTERTAINMENT*** 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -339,6 +339,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264748
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264748
+http://iptvtree.net:8080/F14995/a84c0963/264748
 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
