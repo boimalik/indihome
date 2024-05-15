@@ -149,7 +149,10 @@ http://iptvid.my.id/hmm/antara.m3u8
 https://rrinet.rri.co.id/hls/live.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
-EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
 https://playlist-coffee.my.id/oxy/vtv.m3u8
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 https://kametv.my.id/putar/vivatv.php
@@ -1341,6 +1344,7 @@ EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/8rVKsmG/Smart-Select-20
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/NpQc5Sv/K-Pop.jpg" group-title="MUSIC", KPOP PLAY
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/nLTxfw1/K-pop.jpg" group-title="MUSIC", KPOP
