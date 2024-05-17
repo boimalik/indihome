@@ -324,8 +324,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jMnXKwy/Picsart-23-06-12-23-01-03-508.jpg" group-title="ENTERTAINMENT", DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
@@ -672,6 +670,9 @@ https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
 
 ***KNOWLEDGE***
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jgbb2dM/TVRI-WORLD.jpg" group-title="KNOWLEDGE", TVRI WOLRD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -693,7 +694,7 @@ https://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="KNOWLEDGE", BBC EARTH
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0tYyL5P/BBC-EARTH.jpg" group-title="KNOWLEDGE", BBC EARTH
 https://testfunctionlive.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -961,10 +962,9 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 https://testfunctionlive.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
+http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
 http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m3u8
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -980,6 +980,9 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/yg3St6g/Movies-Now.jpg", MOVIES NOW
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN+
+http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1289,10 +1292,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/YB1bkjj/Smart-Select-20230609-105725-Picsart.jpg", NAGASWARA
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/YB1bkjj/Smart-Select-20230609-105725-Picsart.jpg", NAGASWARA FM
-https://kister.net/mpl/yt2m3u8?w=@nagaswarafmbgr
-https://ythls.armelin.com/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/wRp0BJp/Musica-Studio.jpg", MUSICA STUDIOS
 https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
 https://ythls.armelin.one/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
@@ -1457,6 +1456,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 ***SPORTS***
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/gRBZ0bN/Smart-Select-20230610-161210-Picsart.jpg", TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/166686
 http://iptvtree.net:8080/F26646/f950f250/166686
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
