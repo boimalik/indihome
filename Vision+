@@ -659,6 +659,7 @@ http://iptvtree.net:8080/F26646/f950f250/276564
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/276564
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KV0mJw0/Disney-Jr.jpg" group-title="KIDS", DISNEY JUNIOR
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
