@@ -1047,23 +1047,36 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpSj4Yc/Zee-Bioskop.jpg" group-title="MOVIES", ZEE BIOSKOP
 https://testfunctionlive.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://1000logos.net/wp-content/uploads/2023/02/Starz-logo.png", STARZ
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png", STARZ CLASSIC
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png", STARZ ACTION
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Starz_In_Black_2016.svg/1200px-Starz_In_Black_2016.svg.png", STARZ IN BLACK
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIKG5Jlq7BxmQJQFgT2Sd0UJOnK4s1Dc4N3w&s", STARZ CINEMA
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRveWpSs7bhJNf2wHCbooPo7c8W7Kk7YRSjCw&s", STARZ FAMILY
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298526
 http://iptvtree.net:8080/F26646/f950f250/298526
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
+EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298527
 http://iptvtree.net:8080/F26646/f950f250/298527
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
+EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298528
 http://iptvtree.net:8080/F26646/f950f250/298528
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298529
 http://iptvtree.net:8080/F26646/f950f250/298529
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
@@ -1262,23 +1275,17 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
 http://208.115.225.174:14136
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
 https://bit.ly/3FFkNmF
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
 http://208.115.225.174:14140
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
 https://bit.ly/3tXEYtB
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
 http://208.115.225.174:14160
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
 http://208.115.225.174:14165
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
 https://bit.ly/3QOeNi9
