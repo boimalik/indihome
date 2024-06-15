@@ -187,7 +187,7 @@ https://kusnadipepenk.github.io/campeign/metro.m3u8
 https://mangga-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_metrotv_small1.png" group-title="NEWS", METRO TV
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165059
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165059
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -266,8 +266,8 @@ https://testfunctionlive.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://testfunctionlive.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcLRypH/France-24.jpg" group-title="NEWS", FRANCE 24
+https://testfunctionlive.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 http://210.210.155.37/x6bnqe/s/s22/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s22/index.m3u8
 http://vo01.mohdtv.com:8880/voby3450/7887984/60367
@@ -334,7 +334,7 @@ EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/x3zz67k/citra-b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citrabioskop/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298519
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298519
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298519
 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
@@ -342,7 +342,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264748
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264748
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264748
 http://iptvtree.net:8080/F14995/a84c0963/264748
 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
@@ -351,7 +351,7 @@ EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/wcRn4xy/citra-e
 https://cdn08jtedge.indihometv.com/dassdvr/130/centertainment/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298520
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298520
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298520
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/DCqJHDw/Smart-Select-20230609-110015-Picsart.jpg", CITRA DANGDUT
@@ -360,7 +360,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/247446
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/247446
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/247446
 http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/02.m3u8
@@ -412,7 +412,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264766
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264766
 http://iptvtree.net:8080/F26646/f950f250/264766
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -467,7 +467,7 @@ https://testfunctionlive.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0GB1Mm/Aniplus.jpg" group-title="KIDS", ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298504
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298504
 http://iptvtree.net:8080/F14995/a84c0963/298504
 http://rr.dens.tv/h/h14/S4/mnf.m3u8
 http://210.210.155.35:80/dr9445/h/h114/S4/mnf.m3u8
@@ -483,7 +483,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbL9bv1/Boomerang.jpg" group-title="KIDS", BOOMERANG
 http://iptvtree.net:8080/F14995/a84c0963/165109
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165109
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165109
 https://cdn08jtedge.indihometv.com/dassdvr/130/boomerang/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
@@ -495,7 +495,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/1frXF1C/Cartoonito.jpg" group-title="KIDS", CARTOONITO
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165109
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165109
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -504,7 +504,7 @@ http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165109
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/1025wXB/CNetwork.jpg" group-title="KIDS", CARTOON NETWORK
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/157593
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157593
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157593
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/index.m3u8
@@ -554,12 +554,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264750
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264750
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xz2hGN8/Hip-hip-Horee.jpg" group-title="KIDS", HIP HIP HOREE
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298536
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298536
 http://iptvtree.net:8080/F26646/f950f250/298536
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nBhpYXM/IndiKids.jpg" group-title="KIDS", FUN PLANET
@@ -652,16 +652,19 @@ EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/lo
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NtNxV9Z/Disney-Channel.jpg" group-title="KIDS", DISNEY CHANNEL
+https://iptv.cinehub.wf/mono/ddy1.mizhls.ru/ddy1/premium312/tracks-v1a1/mono.m3u8
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57183.m3u8
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60909
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=396314&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQL8SRw/Disney-XD.jpg" group-title="KIDS", DISNEY XD
+https://iptv.cinehub.wf/mono/ddy1.mizhls.ru/ddy1/premium314/tracks-v1a1/mono.m3u8
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57232.m3u8
 http://iptvtree.net:8080/F26646/f950f250/276564
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/276564
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/276564
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KV0mJw0/Disney-Jr.jpg" group-title="KIDS", DISNEY JUNIOR
+https://iptv.cinehub.wf/mono/ddy5.mizhls.ru/ddy5/premium652/tracks-v1a1/mono.m3u8
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
 
@@ -708,6 +711,7 @@ https://testfunctionlive.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrek
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yygVYmG/Nat-Geo-Wild.jpg" group-title="KNOWLEDGE", NAT GEO WILD
+http://117tv.icu:8080/live/X5xRz0/944877/11664.m3u8
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS0VvSf/animal-planet-logo-tv.jpg" group-title="KNOWLEDGE", ANIMAL PLANET
@@ -758,6 +762,7 @@ http://beetv.my.id/x/usee-lingua-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/02s4Rrv/HGTV.jpg" group-title="KNOWLEDGE", HGTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/hgtv_norvegicus/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 #http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298535
@@ -770,13 +775,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 https://testfunctionlive.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/7JdvRSn/AFN.jpg" group-title="KNOWLEDGE", ASIAN FOOD NETWORK
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298503
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298503
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298503
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSTMvG3/TLC.jpg" group-title="KNOWLEDGE", TLC
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/165086
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165086
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165086
@@ -790,7 +795,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mk0TZ4t/Eat-amp-Go.jpg" group-title="KNOWLEDGE", EAT & GO
 https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264765
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264765
 http://iptvtree.net:8080/F26646/f950f250/264765
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx0dvYs/Picsart-23-07-19-11-28-29-508.jpg" group-title="KNOWLEDGE", FOOD NETWORK
@@ -822,14 +827,14 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BqB6MMt/TECHSTORM.jpg" group-title="KNOWLEDGE", TECHSTORM
 https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298572
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298572
 http://iptvtree.net:8080/F26646/f950f250/298572
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel%28abe4ead2-1a88-4330-9f41-382fcf94bba2%29/manifest.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264767
 http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 
@@ -1061,23 +1066,23 @@ http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298526
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
 http://iptvtree.net:8080/F26646/f950f250/298526
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298527
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
 http://iptvtree.net:8080/F26646/f950f250/298527
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298528
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
 http://iptvtree.net:8080/F26646/f950f250/298528
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298529
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 http://iptvtree.net:8080/F26646/f950f250/298529
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
 
@@ -1112,6 +1117,7 @@ https://testfunctionlive.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-H
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftWscw4/Paramount.jpg" group-title="MOVIES SERIES", PARAMOUNT NETWORK
+http://117tv.icu:8080/live/X5xRz0/944877/46694.m3u8
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=176904
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298564
@@ -1149,7 +1155,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298533
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298533
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
@@ -1196,23 +1202,35 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIES HBO", HBO HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
 http://iptvtree.net:8080/F26646/f950f250/197972
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="MOVIES HBO", Hbo family HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197055
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 http://iptvtree.net:8080/F26646/f950f250/197055
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="MOVIES HBO", Hbo Hits HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/196480
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
 http://iptvtree.net:8080/F26646/f950f250/196480
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="MOVIES HBO", Hbo signature HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/221948
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 http://iptvtree.net:8080/F26646/f950f250/221948
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png"  group-title="MOVIES HBO", Cinemax HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197964
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 http://iptvtree.net:8080/F26646/f950f250/197964
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="MOVIES HBO", WARNER TV
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/157594
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157594
 http://iptvtree.net:8080/F26646/f950f250/157594
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIES HBO", HBO HD
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hboid.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="MOVIES HBO", Hbo family HD
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hbofamily.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="MOVIES HBO", Hbo Hits HD
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hbohits.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="MOVIES HBO", Hbo signature HD
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hbosignature.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png"  group-title="MOVIES HBO", Cinemax HD
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hbocinemax.m3u8
+
 
 ----------- HBO Maxstream ----------
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD max
@@ -1323,7 +1341,7 @@ https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvqrvCz/Picsart-23-06-27-05-09-13-806.jpg" group-title="MUSIC", PRAMBORS
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264761
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264761
 http://iptvtree.net:8080/F26646/f950f250/264761
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQjngRr/Musik-Indo.jpg" group-title="MUSIC", MUSIK INDONESIA
@@ -1358,18 +1376,22 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/n7j8L6J/1-mus-com.jpg", 1MUS.COM
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/8rVKsmG/Smart-Select-20230609-105314-Picsart.jpg", MOLAHITS TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/8rVKsmG/Smart-Select-20230609-105314-Picsart.jpg", MOLAHITS TV
+https://ventdelnord.tv:8080/mola/directe.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/NpQc5Sv/K-Pop.jpg" group-title="MUSIC", KPOP
+https://marine2.miplay.cl/kpop/playlist.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/NpQc5Sv/K-Pop.jpg" group-title="MUSIC", KPOP PLAY
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/nLTxfw1/K-pop.jpg" group-title="MUSIC", KPOP
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/nLTxfw1/K-pop.jpg" group-title="MUSIC", K-POP
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/Zmb73kd/K-pop-2.jpg" group-title="MUSIC", KPOP 2
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/Zmb73kd/K-pop-2.jpg" group-title="MUSIC", K-POP 2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HWLWSD/MTV-CLASSIC.jpg" group-title="MUSIC", MTV CLASSIC
@@ -1477,7 +1499,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/gRBZ0bN/Smart-Select-20230610-161210-Picsart.jpg", TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/166686
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/166686
 http://iptvtree.net:8080/F26646/f950f250/166686
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -1613,7 +1635,7 @@ http://89.187.175.143:80/3028/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Wv0KcSh/HORIZON-SPORT.jpg" group-title="SPORTS", PREMIER LEAGUE
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=83447&extension=m3u8
 http://iptvtree.net:8080/F14995/a84c0963/297425
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/297425
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/297425
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1627,6 +1649,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/03.m3u8
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 
 EXTINF: -1 tvg-logo="https://i.ibb.co/TrrVdzn/Picsart-23-07-19-11-18-59-445.jpg" group-title="SPORTS", PREMIER SPORTS
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33005
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/03.m3u8
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
@@ -1720,14 +1743,14 @@ https://playlist-coffee.my.id/oxy/trans7.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="ALTERNATIVE", INDOSIAR
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/162138
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 http://startv365.com:80//live/D85A79B4/55A7743D/45098.ts
 https://link.zozotv.xyz:443/rozila969/abc12345/45
 https://playlist-coffee.my.id/oxy/indosiar.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="ALTERNATIVE", SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/162141
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 http://startv365.com:80//live/D85A79B4/55A7743D/45099.ts
 https://link.zozotv.xyz:443/rozila969/abc12345/46
 https://playlist-coffee.my.id/oxy/sctv.m3u8
@@ -1802,15 +1825,15 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="ALTERNATIVE", HBO HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
 #EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/hbo_family.jpg" group-title="ALTERNATIVE", Hbo family HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197055
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 #EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/hbo_hits.jpg" group-title="ALTERNATIVE", Hbo Hits HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/196480
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
 #EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/hbo_signature.jpg" group-title="ALTERNATIVE", Hbo signature HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/221948
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 #EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/cinemax.jpg"  group-title="ALTERNATIVE", Cinemax HD
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197964
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 EXTINF:-1 tvg-logo="https://i.ibb.co/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg" group-title="ALTERNATIVE", &PRIVE
 https://link.zozotv.xyz:443/rozila969/abc12345/104
 
@@ -1855,7 +1878,51 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57409.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="ALTERNATIVE", HGTV
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298535
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298535
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="ALTERNATIVE", KOMPAS TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch102.m3u8
+#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="ALTERNATIVE", TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch103.m3u8
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="ALTERNATIVE", TVRI SPORT
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch104.m3u8
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="ALTERNATIVE", TVRI SPORT HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch105.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="ALTERNATIVE", SEA TODAY
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch106.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="ALTERNATIVE", VTV VIVA
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="ALTERNATIVE", ANTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch108.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="ALTERNATIVE", TVONE HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch109.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="ALTERNATIVE", METRO TV 
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch110.m3u8
+#EXTINF:-1 tvg-logo="https://rushia-thumbor.mediaformasi.com/unsafe/1000x0/content/images/size/w1000/wordpress/2020/07/1594699707-picsay.jpg" group-title="ALTERNATIVE", MAGNA TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch111.m3u8
+#EXTINF:-1 tvg-logo="https://micms.mediaindonesia.com/storage/app/media/FOTO/Operator/metrotv.jpg" group-title="ALTERNATIVE", METRO TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1 tvg-logo="https://btv.id/img/btv-livestream.webp" group-title="ALTERNATIVE", BTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch113.m3u8
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="ALTERNATIVE", NET TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch114.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="ALTERNATIVE", RTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch115.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
