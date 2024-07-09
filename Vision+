@@ -328,8 +328,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jMnXKwy/Picsart-23-06-12-23-01-03-508.jpg" group-title="ENTERTAINMENT", DUNIA SINEMA
-https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.mpd
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.mpd
+#https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co.com/x3zz67k/citra-bioskop-logo-tv.jpg", CITRA BIOSKOP
 https://cdn08jtedge.indihometv.com/dassdvr/130/citrabioskop/manifest.mpd
@@ -1023,8 +1024,9 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://tgaadi-web.tech/jiotv.php?tv=1488
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #https://tgaadi-web.tech/trex.php?tv=1116481
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
@@ -1054,16 +1056,18 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 #https://tgaadi-web.tech/trex.php?tv=155729
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/yg3St6g/Movies-Now.jpg", MOVIES NOW
-http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://tgaadi-web.tech/jiotv.php?tv=1481
+http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #https://tgaadi-web.tech/trex.php?tv=156022
 #http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN+
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 https://tgaadi-web.tech/jiotv.php?tv=1480
 #https://tgaadi-web.tech/trex.php?tv=156025
 #http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", LOTUS
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://1000logos.net/wp-content/uploads/2023/02/Starz-logo.png", STARZ
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
