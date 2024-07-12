@@ -1412,7 +1412,9 @@ EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" gro
 http://iptvid.my.id/hmm/muitv.m3u8
 http://180.211.90.134:8000/play/a092
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GWjfPpv/MTA-TV.jpg" group-title="RELIGI", MTATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GWjfPpv/MTA-TV.jpg" group-title="RELIGI", MTA TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 https://ythls.urfan.web.id/stream/UCIrj7gqiu8uUfgMitYFzkNg/master.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
