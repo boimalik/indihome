@@ -998,6 +998,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-
 http://rr.dens.tv/h/h193/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/qYzCH8K/cinema-europe-logo-tv.jpg" group-title="MOVIES", MY CINEMA EUROPE
+http://rr.dens.tv/h/h18/index.m3u8
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1028,23 +1029,11 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
-https://tgaadi-web.tech/jiotv.php?tv=1488
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/55291
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
+https://tgaadi-web.tech/jiotv.php?tv=1488
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #https://tgaadi-web.tech/trex.php?tv=1116481
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
-https://tgaadi-web.tech/jiotv.php?tv=1486
-#https://tgaadi-web.tech/trex.php?tv=155746
-#http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX HD
-https://tgaadi-web.tech/jiotv.php?tv=1477
-#https://tgaadi-web.tech/trex.php?tv=1116484
-#http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
-#http://opplextv.cyou:8080//live/7262771/7272772/66236.m3u8
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
@@ -1058,6 +1047,21 @@ http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 #https://tgaadi-web.tech/jiotv.php?tv=1485
 #https://tgaadi-web.tech/trex.php?tv=155729
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1963
+https://tgaadi-web.tech/jiotv.php?tv=1486
+#https://tgaadi-web.tech/trex.php?tv=155746
+#http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
+#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1956
+https://tgaadi-web.tech/jiotv.php?tv=1477
+#https://tgaadi-web.tech/trex.php?tv=1116484
+#http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
+#http://opplextv.cyou:8080//live/7262771/7272772/66236.m3u8
+#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/yg3St6g/Movies-Now.jpg", MOVIES NOW
 https://tgaadi-web.tech/jiotv.php?tv=1481
