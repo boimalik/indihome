@@ -17,6 +17,7 @@ https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOCAL", INDOSIAR
+http://xtv.ooo:8080/321166661/52816191/350972
 http://extraott.com/live/7921751389/6097373662/45098.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
@@ -297,6 +298,9 @@ http://vo01.mohdtv.com:8880/voby3450/7887984/60450
 http://210.210.155.37/x6bnqe/s/s19/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0015/0745/brand.gif?itok=Rr_3_2eP" group-title="NEWS", TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LkkzGjh/VOA.jpg" group-title="NEWS", VOA
 https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
@@ -338,8 +342,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jMnXKwy/Picsart-23-06-12-23-01-03-508.jpg" group-title="ENTERTAINMENT", DUNIA SINEMA
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.mpd
