@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="3600"
+#EXTM3U tvg-url="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://weareblahs.github.io/epg/mytv.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://epg.kampung.xyz/IPTV.xml, https://stavol.masuk.web.id/epg.xml" refresh="3600"
 
 ***LOCAL***
 
