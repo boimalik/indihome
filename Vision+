@@ -469,7 +469,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/f1sPr60/Tv5-Monde.jpg" group-title="ENTERTAINMENT", TV5 MONDE
-https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/TV5now/sa_dash_vmx/TV5now.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -512,6 +512,9 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dbL9bv1/Boomerang.jpg" group-title="KIDS", BOOMERANG
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1125
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1931
+
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
 http://iptvtree.net:8080/F14995/a84c0963/165109
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165109
@@ -685,6 +688,7 @@ EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/lo
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NtNxV9Z/Disney-Channel.jpg" group-title="KIDS", DISNEY CHANNEL
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192985
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57183.m3u8
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60909
@@ -798,6 +802,7 @@ http://beetv.my.id/x/usee-lingua-gojokkk.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/02s4Rrv/HGTV.jpg" group-title="KNOWLEDGE", HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
@@ -1118,17 +1123,23 @@ https://tgaadi-web.tech/jiotv.php?tv=1480
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", LOTUS MACAU
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ I
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1092
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ CLASSIC
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ II
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/463
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ACTION
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ III
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9284
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IN BLACK
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295079
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ CINEMA
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ V
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/725
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ FAMILY
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ VI
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1082
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 
 
@@ -1136,6 +1147,7 @@ http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
 http://iptvtree.net:8080/F26646/f950f250/298526
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298526
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
@@ -1148,6 +1160,7 @@ http://iptvtree.net:8080/F26646/f950f250/298528
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298529
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 http://iptvtree.net:8080/F26646/f950f250/298529
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
@@ -1222,17 +1235,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298533
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b7da012ab34bd4a37e1190174015e2:498fb9e0165554a2de01fded75be092e
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
 https://atemecdnbalancer-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1426,7 +1436,7 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVpYgTt/dens-showbiz-logo-tv.jpg" group-title="MUSIC", DENS SHOWBIZ
-https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 http://210.210.155.37/uq2663/h/h244/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 #https://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8
