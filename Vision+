@@ -160,6 +160,7 @@ https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 https://nonton.site:8443/live/ekos/748344x/32586.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j32TF2j/RRI-NET.jpg" group-title="LOCAL", RRI NET
+https://public-streaming.rri.co.id/memfs/b3169f10-7846-496c-a186-698ea5ddd310.m3u8
 https://rrinet.rri.co.id/hls/live.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
@@ -242,8 +243,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/xLBJ4FM/SEA-TODAY.jpg" group-title="NEWS", SEA TODAY
+EXTINF: -1 tvg-logo="https://i.ibb.co.com/xLBJ4FM/SEA-TODAY.jpg" group-title="NEWS", SEA TODAY
 https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/xLBJ4FM/SEA-TODAY.jpg" group-title="NEWS", SEA TODAY
+https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
