@@ -63,6 +63,7 @@ https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df935
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="Lokal",SCTV
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 https://cdnjkt4.transvision.co.id:1001/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
