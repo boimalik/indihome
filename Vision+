@@ -32,15 +32,14 @@ https://servicebuss.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b0
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL", SCTV
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/SCTV-2/sa_dash_vmx/SCTV-2.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/SCTV-2/sa_dash_vmx/SCTV-2.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="LOCAL", RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -205,7 +204,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/jMf4KwD/IDTV.jpg" group-title="NEWS", IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1Mqxvr0/Antara-TV.jpg" group-title="LOCAL", ANTARA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1Mqxvr0/Antara-TV.jpg" group-title="NEWS", ANTARA
 https://nonton.site:8443/live/ekos/748344x/32586.ts
 
 EXTINF: -1 tvg-logo="https://i.ibb.co.com/xLBJ4FM/SEA-TODAY.jpg" group-title="NEWS", SEA TODAY
@@ -249,8 +248,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 http://210.210.155.37/x6bnqe/s/s22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HhvVcdC/NHK-WORLD.jpg" group-title="NEWS", NHK WORLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 http://210.210.155.37/uq2663/h/h23/index.m3u8
 http://vo01.mohdtv.com:8880/voby3450/7887984/60450
@@ -544,8 +544,9 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/tsmRZVP/MIAOMI.jpg" group-title="KIDS",
 https://cempedak-live-cdn.mncnow.id/live/eds/MiaoMi-2/sa_dash_vmx/MiaoMi-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9n1vtc/My-kidz.jpg" group-title="KIDS", MY KIDZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 http://rr.dens.tv/h/h191/index.m3u8
 
@@ -882,9 +883,6 @@ https://maper.info/BOO_shareext
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1697
 http://toh-users.xyz:8080/42204120/16250164/798445
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RH7WRP9/Thrill.jpg" group-title="MOVIES", THRILL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
@@ -1219,8 +1217,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0KkSYVW/MTV-S.jpg" group-title="MUSIC", MTV 90s
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e1d75138efd44969abf01914a47ff54:d0c52fed5210338569837a61e3e0b675
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
@@ -1447,28 +1446,32 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 http://iptvtree.net:8080/F26646/f950f250/298506
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/zxYr5SR/SPOTV.jpg" group-title="SPORTS", SPOTV
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 http://iptvid.my.id/hmm/spotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/R904fk0/SPOTV-2.jpg" group-title="SPORTS", SPOTV 2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://iptvid.my.id/hmm/spotv2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/m6QL9wb/Picsart-23-07-19-11-53-06-959.jpg" group-title="SPORTS", UNIFI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/6vqSDG4/Sony-Sport.jpg" group-title="SPORTS", SONY SPORT 5
-http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=416147&extension=m3u8
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
@@ -1480,7 +1483,7 @@ http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/YfQRjZs/Picsart-23-07-20-15-16-23-603.jpg" group-title="SPORTS", IMPACT! WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/LSWHQqf/NBA-TV.jpg" group-title="SPORTS", NBA
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/CJDBxnJ/Picsart-24-01-19-06-33-03-516.jpg" group-title="SPORTS", NBA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
@@ -1489,16 +1492,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #http://iptvid.my.id/hmm/nba.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
@@ -1546,9 +1545,9 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 http://89.187.175.143:80/3028/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Wv0KcSh/HORIZON-SPORT.jpg" group-title="SPORTS", PREMIER LEAGUE
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/297425
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=83447&extension=m3u8
-http://iptvtree.net:8080/F14995/a84c0963/297425
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297425
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/297425
+#http://iptvtree.net:8080/F14995/a84c0963/297425
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
