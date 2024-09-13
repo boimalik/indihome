@@ -76,6 +76,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="LOCAL", MOJI
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://playlist-coffee.my.id/oxy/moji.m3u8
 
@@ -944,12 +945,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 http://opplex.tv:8080//live/83212539/43153928/66224.m3u8
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/55291
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66224
 https://tgaadi-web.tech/jiotv.php?tv=1488
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #https://tgaadi-web.tech/trex.php?tv=1116481
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 https://tgaadi-web.tech/jiotv.php?tv=1487
 #https://tgaadi-web.tech/trex.php?tv=282639
@@ -1427,7 +1431,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="SPORTS", SPORTSTARS 4
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
@@ -1474,7 +1478,7 @@ https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/CWMwctc/Fight-Sports.jpg" group-title="SPORTS", FIGHT SPORTS
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
@@ -1491,12 +1495,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
 #http://iptvid.my.id/hmm/nba.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
