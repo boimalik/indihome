@@ -103,7 +103,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/247446
 https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
 
 #EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-name="DuniaLain.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://about.vidio.com/wp-content/uploads/2019/09/Mobile.png", CITRA BIOSKOP
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co.com/x3zz67k/citra-bioskop-logo-tv.jpg", CITRA BIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
@@ -471,7 +470,6 @@ EXTINF:-1 tvg-id="horee.MACAN" tvg-name="horee.MACAN" group-title="KIDS" tvg-log
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298536
 
 #EXTINF:-1 tvg-id="Mykidz.MACAN" tvg-name="Mykidz.MACAN" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/mykidz.jpg", My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
