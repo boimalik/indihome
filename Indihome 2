@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://weareblahs.github.io/epg/mytv.xml, https://weareblahs.github.io/epg/indonesia.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 
 ############LOCAL FTA########
@@ -15,7 +14,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/sctv.png", SCTV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://static.epg.best/id/RCTI.id.png", RCTI
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png", RCTI
 https://1s1.rctiplus.id/rcti2023.m3u8
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
@@ -79,7 +78,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="seatoday.MACAN" tvg-name="seatoday.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/seatoday.png", SEA TODAY
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
-#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZnwMRADrZuB_lU9zxyTwV_h5pcb5IX-dbcKt0qyAZal0RM3Z0L-oYJb21jhOpXq2Ehzw&usqp=CAU", BERITA SATU
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="DaaiTv.MACAN" tvg-name="DaaiTv.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/daaitv.png", DAAI TV
@@ -290,16 +289,16 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157594
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://117tv.icu:8080/live/X5xRz0/944877/46694.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png", GALAXY
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png", GALAXY
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png", GALAXY PREMIUM 
 https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
 
-#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/imc.jpg", IMC
+#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="MOVIES" tvg-logo="hhttps://www.mncvision.id/userfiles/image/channel/channel_14.png", IMC
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", BIOSKOP INDONESIA
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", BIOSKOP INDONESIA
 https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/flik.png", FLIK
@@ -339,7 +338,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157580
 #EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.ibb.co/xs37yJ8/boo-removebg-preview-modified.png" group-title="MOVIES", BOO
 https://nonton.site:8443/ekos/748344x/37457
 
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXNHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/axn.png", AXN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165079
 
 #EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="BlueAntEntertainment.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png", Rock Entertainment
@@ -364,7 +363,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/gem.jpg", GEM
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/sonyone.png", ONE
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png", ONE
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 
 #EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kix.png", KIX
@@ -374,7 +373,7 @@ https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png", Celestial Movies
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="ChineseDrama.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/chinesedrama.png", Chinese Drama
@@ -395,19 +394,19 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/1KY7rjF.png", Zee Bollywood
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2013/08/pictures-top.jpg" group-title="MOVIES", &PICTURES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png" group-title="MOVIES", &PICTURES
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDRLdAm.png" group-title="MOVIES", &PRIVE
 http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES", &FLIX
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/R45cqkBC.png" group-title="MOVIES", &FLIX
 http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
 
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/4/4d/Sony_Pix_new_logo.png", SONY PIX
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1212_1.png" group-title="MOVIES", STAR MOVIES
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png" group-title="MOVIES", STAR MOVIES
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/Universal_Channel.png", Universal Premier
@@ -432,7 +431,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149643
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/syfy-logo-243F5B37C0-seeklogo.com.png" group-title="MOVIES", SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.freepnglogos.com/uploads/tnt-logo-png-28.png", TNT
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.freepnglogos.com/uploads/tnt-logo-png-28.png", TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
 http://201.219.223.101:46000/play/a00g
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="MOVIES", ETV BIOSKOP 1
@@ -567,7 +567,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
 
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/discoverychannel.png" group-title="KNOWLEDGE", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="KNOWLEDGE", DISCOVERY CHANNEL
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="KNOWLEDGE", ANIMAL PLANET
@@ -594,7 +594,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="KNOWLEDGE", TECHSTORM
 https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png", NHK WORLD
+#EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2048px-NHK_World.svg.png", NHK WORLD
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang.MACAN" group-title="KNOWLEDGE" tvg-logo="https://cdn.macan.tv/img/arirang.png", ARIRANG
@@ -717,13 +717,13 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 ############## ENTERTAINMENT & LIFESTYLE ##############
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://i.imgur.com/drcIzRz.png", USEE PRIME
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/1280px-AllPlay_Entertainment.png", ALL PLAY
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://imgpile.com/images/ucVpEC.png", USEE PHOTO
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg", Citra Entertainment
+#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png", Citra Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j4ZMR46PRR2B5caEByNww", "kid":"BctLvZHjTYWPaSHnGW93lQ" } ], "type":"temporary" }
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
@@ -736,7 +736,7 @@ https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel
 
-#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://www.globalxtreme.net/images/channels/as-15.png", Eat & Go
+#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png", Eat & Go
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264765
 
 EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://image.roku.com/developer_channels/prod/c30644f7a612e7b3e9d7973b447136ceaef214c565b418db4d6d72305caefecf.png",I FOOD
@@ -746,7 +746,7 @@ http://87.212.248.44:60150/play/a0az/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://cdn.macan.tv/img/tlc.png", TLC
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165086
 
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hgtv.png" group-title="ENTERTAINMENT & LIFESTYLE", HGTV
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="ENTERTAINMENT & LIFESTYLE", HGTV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298535
 
 #EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://www.biznetnetworks.com/assets/img/bizlifestyle.png", Biznet Lifestyle
