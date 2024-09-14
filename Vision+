@@ -1374,8 +1374,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B2N1VM0/TV-MU.jpg" group-title="RELIGI", TV MUHAMMADIYAH
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/B2N1VM0/TV-MU.jpg" group-title="RELIGI", TV MUHAMMADIYAH
 https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B2N1VM0/TV-MU.jpg" group-title="RELIGI", TV MUHAMMADIYAH
+https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dMcSJZc/RODJA-tv.jpg" group-title="RELIGI", RODJA TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
