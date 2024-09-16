@@ -1120,12 +1120,13 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/880V44X/Nadoo-korean.jpg" group-title="
 http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NaDooKorean
 http://210.210.155.35/uq2663/h/h125/live.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
+https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S2ZF6v/GEM.jpg" group-title="MOVIES SERIES", GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b7da012ab34bd4a37e1190174015e2:498fb9e0165554a2de01fded75be092e
 https://atemecdnbalancer-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
@@ -1161,23 +1162,23 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="MOVIES
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO HD
-https://nonton.site:8443/ekos/748344x/1496
 http://ktpremium.xyz:2095/live/yv2268/22681081/26076.m3u8
+https://nonton.site:8443/ekos/748344x/1496
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
 http://iptvtree.net:8080/F26646/f950f250/197972
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png", HBO FAMILY HD
-https://nonton.site:8443/ekos/748344x/30184
 http://ktpremium.xyz:2095/live/yv2268/22681081/656642.m3u8
+https://nonton.site:8443/ekos/748344x/30184
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 http://iptvtree.net:8080/F26646/f950f250/197055
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png", HBO HITS HD
-https://nonton.site:8443/ekos/748344x/11492
 http://ktpremium.xyz:2095/live/yv2268/22681081/26077.m3u8
+https://nonton.site:8443/ekos/748344x/11492
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
 http://iptvtree.net:8080/F26646/f950f250/196480
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
-https://nonton.site:8443/ekos/748344x/1498
 http://ktpremium.xyz:2095/live/yv2268/22681081/26080.m3u8
+https://nonton.site:8443/ekos/748344x/1498
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 http://iptvtree.net:8080/F26646/f950f250/221948
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX HD
@@ -1325,15 +1326,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qzCbqr/Picsart-23-06-12-11-29-57-494.jpg" group-title="MUSIC", SONG TV
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="MUSIC", I-KONSER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HnMB1c6/I-Konser.jpg" group-title="MUSIC", I-KONSER
+https://cdn09jtedge.indihometv.com/joss/130/ikonser/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd
 
-***RELIGI***
+*************************************************** RELIGI ******************************************************
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vj69HCV/Alquran-Alkarim.jpg" group-title="RELIGI", ALQURAN KHAREEM
 https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
@@ -1345,13 +1345,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
 http://rr2.dens.tv/s/s27/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VS4VvJD/muslim-tv-mnc-logo.jpg" group-title="RELIGI", MUSLIM TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cv6T2Hj/TAWAF-TV.jpg" group-title="RELIGI", TAWAF TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
@@ -1372,7 +1372,7 @@ https://ythls.urfan.web.id/stream/UCIrj7gqiu8uUfgMitYFzkNg/master.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/B2N1VM0/TV-MU.jpg" group-title="RELIGI", TV MUHAMMADIYAH
 https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
@@ -1388,9 +1388,6 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 http://rr2.dens.tv/s/s14/01.m3u8
 http://210.210.155.37/qwr9ew/s/s14/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pWRSNxZ/TV9.jpg" group-title="RELIGI", TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
