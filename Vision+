@@ -30,6 +30,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 https://servicebuss.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL", SCTV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -783,6 +784,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel%28abe4ead2-1a88
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/342
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264767
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264767
 
@@ -1021,22 +1023,28 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Jr3mGDN/action-hollywood-movies.jpg", ACTION HOLLYWOOD MOVIES
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ I
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EAST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3810
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1092
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ II
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ WEST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3806
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/463
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ III
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ CINEMA
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3811
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9284
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IV
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EDGE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/645
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295079
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ V
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3803
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/725
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ VI
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IN BLACK
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1082
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 
@@ -1289,6 +1297,11 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HWLWSD/MTV-CLASSIC.jpg" group-title="MUSIC", MTV CLASSIC
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1171
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58589.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QQjngRr/Musik-Indo.jpg" group-title="MUSIC", MUSIK INDONESIA
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
@@ -1359,10 +1372,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/Zmb73kd/K-pop-2.jpg" group-title="MUSIC", THE KPOP 2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
-
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HWLWSD/MTV-CLASSIC.jpg" group-title="MUSIC", MTV CLASSIC
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58589.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1560,6 +1569,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=282052&extension=m3u8
 #http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
 #http://iptvid.my.id/hmm/nba.m3u8
+
+#EXTINF:-1 tvg-logo="https://hifight.it/wp-content/uploads/2021/11/hifight-600x600-1.jpg" group-title="SPORTS", Hi-Fight Super sport
+http://49.0.64.96:8007/HIFIGHT
 
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
