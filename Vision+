@@ -1228,9 +1228,6 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX HD
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="MOVIES HBO", WARNER TV
-http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
-
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 http://ktpremium.xyz:2095/live/yv2268/22681081/26076.m3u8
@@ -1261,7 +1258,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197964
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 http://iptvtree.net:8080/F26646/f950f250/197964
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="MOVIES HBO", Warner TV
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="MOVIES HBO", Warner TV
 http://ktpremium.xyz:2095/live/yv2268/22681081/26097.ts
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157594
 http://iptvtree.net:8080/F26646/f950f250/157594
@@ -1843,7 +1840,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="ALTERNATIVE", WARNER TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1533.ts
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s5g9X8J/Hits-Movies.jpg" group-title="ALTERNATIVE", HITS MOVIES
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 http://210.210.155.37/uq2663/h/h206/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="ALTERNATIVE", CINEMAWORLD 
@@ -1854,6 +1856,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 http://210.210.155.37/uq2663/h/h240/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yYTRFn4/My-Cinema.jpg" group-title="ALTERNATIVE", MY CINEMA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
 
