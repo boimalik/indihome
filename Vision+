@@ -597,6 +597,7 @@ EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/lo
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NtNxV9Z/Disney-Channel.jpg" group-title="KIDS", DISNEY CHANNEL
+http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192985
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
@@ -606,6 +607,7 @@ https://iptv.cinehub.wf/mono/ddy1.mizhls.ru/ddy1/premium312/tracks-v1a1/mono.m3u
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=396314&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YQL8SRw/Disney-XD.jpg" group-title="KIDS", DISNEY XD
+http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6395
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57232.m3u8
 https://iptv.cinehub.wf/mono/ddy1.mizhls.ru/ddy1/premium314/tracks-v1a1/mono.m3u8
@@ -613,6 +615,7 @@ http://iptvtree.net:8080/F26646/f950f250/276564
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/276564
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KV0mJw0/Disney-Jr.jpg" group-title="KIDS", DISNEY JUNIOR
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #https://iptv.cinehub.wf/mono/ddy5.mizhls.ru/ddy5/premium652/tracks-v1a1/mono.m3u8
@@ -1002,6 +1005,7 @@ http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
 #https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/yg3St6g/Movies-Now.jpg", MOVIES NOW
+http://opplex.tv:8080/live/15155419/16175512/66271.ts
 http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
 https://tgaadi-web.tech/jiotv.php?tv=1481
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -1010,6 +1014,7 @@ http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN+
 http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
+http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/3038.ts
 https://tgaadi-web.tech/jiotv.php?tv=1480
 #https://tgaadi-web.tech/trex.php?tv=156025
 #http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
@@ -1047,6 +1052,15 @@ http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1082
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME
+http://212.102.60.231/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME 2
+http://212.102.60.231/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME EXTREME
+http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME WOMEN
+http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
@@ -1264,19 +1278,24 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157594
 http://iptvtree.net:8080/F26646/f950f250/157594
 
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
-http://208.115.225.174:14136
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
-https://bit.ly/3FFkNmF
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
-http://208.115.225.174:14140
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
-https://bit.ly/3tXEYtB
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
-http://208.115.225.174:14160
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
-http://208.115.225.174:14165
+http://212.102.60.231/HBO/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/88/HBO_Comedy_URA_1996.png", HBO COMEDY
+https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
+http://212.102.60.231/HBO_2/index.m3u8
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX
+http://212.102.60.231/CINEMAX/index.m3u8
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
 https://bit.ly/3QOeNi9
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
+https://bit.ly/3FFkNmF
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
+http://208.115.225.174:14165
 
 
 **** MUSIC *****
