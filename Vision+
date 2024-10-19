@@ -1053,13 +1053,13 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1082
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg", SHOWTIME
 http://212.102.60.231/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/7x3pW0z/Showtime-2.jpg", SHOWTIME 2
 http://212.102.60.231/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME EXTREME
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/xsw8MWH/Showtime-Extreme.jpg", SHOWTIME EXTREME
 http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/showtime-logo.png", SHOWTIME WOMEN
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/5LWWNQz/Showtime-Women.jpg", SHOWTIME WOMEN
 http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
 
 
@@ -1242,53 +1242,22 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX HD
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
-http://ktpremium.xyz:2095/live/yv2268/22681081/26076.m3u8
-https://nonton.site:8443/ekos/748344x/1496
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
-http://iptvtree.net:8080/F26646/f950f250/197972
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png", HBO FAMILY HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.ts
-http://ktpremium.xyz:2095/live/yv2268/22681081/656642.m3u8
-https://nonton.site:8443/ekos/748344x/30184
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
-http://iptvtree.net:8080/F26646/f950f250/197055
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png", HBO HITS HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
-http://ktpremium.xyz:2095/live/yv2268/22681081/26077.m3u8
-https://nonton.site:8443/ekos/748344x/11492
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
-http://iptvtree.net:8080/F26646/f950f250/196480
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.ts
-http://ktpremium.xyz:2095/live/yv2268/22681081/26080.m3u8
-https://nonton.site:8443/ekos/748344x/1498
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
-http://iptvtree.net:8080/F26646/f950f250/221948
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197964
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
-http://iptvtree.net:8080/F26646/f950f250/197964
-
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="MOVIES HBO", Warner TV
 http://ktpremium.xyz:2095/live/yv2268/22681081/26097.ts
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157594
 http://iptvtree.net:8080/F26646/f950f250/157594
 
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/0nY1vLw/HBO-US.jpg", HBO
 http://212.102.60.231/HBO/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/88/HBO_Comedy_URA_1996.png", HBO COMEDY
-https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/HnK5jgX/HBO-US-2.jpg", HBO2
 http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/jv1jWZC/HBO-COMEDY-US.jpg", HBO COMEDY
+http://212.102.60.231/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/7tM9JHK/HBO-FAMILY-US.jpg", HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/7yspfCL/HBO-SIGNATURE-US.jpg", HBO SIGNATURE
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/yXP0nPn/CINEMAX-US.jpg", CINEMAX
 http://212.102.60.231/CINEMAX/index.m3u8
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
 https://bit.ly/3QOeNi9
@@ -1847,6 +1816,37 @@ EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/hbo_signa
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/cinemax.jpg"  group-title="ALTERNATIVE", Cinemax HD
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+
+#EXTINF:-1 group-title="ALTERNATIVE" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+http://ktpremium.xyz:2095/live/yv2268/22681081/26076.m3u8
+https://nonton.site:8443/ekos/748344x/1496
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+http://iptvtree.net:8080/F26646/f950f250/197972
+#EXTINF:-1 group-title="ALTERNATIVE" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png", HBO FAMILY HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+http://ktpremium.xyz:2095/live/yv2268/22681081/656642.m3u8
+https://nonton.site:8443/ekos/748344x/30184
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+http://iptvtree.net:8080/F26646/f950f250/197055
+#EXTINF:-1 group-title="ALTERNATIVE" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png", HBO HITS HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
+http://ktpremium.xyz:2095/live/yv2268/22681081/26077.m3u8
+https://nonton.site:8443/ekos/748344x/11492
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+http://iptvtree.net:8080/F26646/f950f250/196480
+#EXTINF:-1 group-title="ALTERNATIVE" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.ts
+http://ktpremium.xyz:2095/live/yv2268/22681081/26080.m3u8
+https://nonton.site:8443/ekos/748344x/1498
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+http://iptvtree.net:8080/F26646/f950f250/221948
+#EXTINF:-1 group-title="ALTERNATIVE" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197964
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+http://iptvtree.net:8080/F26646/f950f250/197964
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7X9cK8/Galaxy.jpg" group-title="ALTERNATIVE", GALAXY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
