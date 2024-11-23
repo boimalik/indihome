@@ -268,6 +268,7 @@ http://210.210.155.37/x6bnqe/s/s19/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/znzpGWn/TV3.jpg" group-title="NEWS", TV3
+https://link.zozotv.xyz:443/mubaen/k895427/19
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LkkzGjh/VOA.jpg" group-title="NEWS", VOA
@@ -1817,6 +1818,8 @@ https://link.zozotv.xyz:443/rozila969/abc12345/51
 https://playlist-coffee.my.id/oxy/antv.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="ALTERNATIVE", MOJI
+http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/298550.ts
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
