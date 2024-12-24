@@ -973,7 +973,6 @@ http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1956
 https://tgaadi-web.tech/jiotv.php?tv=1477
 
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/yg3St6g/Movies-Now.jpg", MOVIES NOW
 http://opplex.tv:8080/live/15155419/16175512/66271.ts
 http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
@@ -988,8 +987,14 @@ http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/GQ7MnJM/FX-Movie.jpg", FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/GQ7MnJM/FX-Movie.jpg", FX MOVIE
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/4KWCXwj/FXX.jpg", FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/3MNVg7D/FXM.jpg", FX MOVIE
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/tJcR0qC/SYFY.jpg", SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", LOTUS MACAU
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -997,7 +1002,7 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Jr3mGDN/action-hollywood-movies.jpg", ACTION HOLLYWOOD MOVIES
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", MAVERICK BLACK CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27W2SCJ/MAVERICK-BLACK-CINEMA.jpg" group-title="MOVIES", MAVERICK BLACK CINEMA
 https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EAST
