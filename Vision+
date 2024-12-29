@@ -25,11 +25,17 @@ http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOCAL", INDOSIAR
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 https://servicebuss.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL", SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -39,6 +45,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL", SCTV
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/SCTV-2/sa_dash_vmx/SCTV-2.mpd
@@ -64,6 +72,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
@@ -152,6 +162,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/d5n1G6H/ATV-indonesia.jpg" group-title="LOCAL", ATV
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-ATV.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.ts
 https://nonton.site:8443/live/ekos/748344x/29899.m3u8
 
@@ -454,12 +465,16 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1931
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1frXF1C/Cartoonito.jpg" group-title="KIDS", CARTOONITO
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg" group-title="KIDS", CARTOON NETWORK
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
@@ -569,18 +584,24 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zXNZQf0/DIZI.jpg" group-title="KIDS", DIZI
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hCMm0Zz/Cartoon-Classic.jpg" group-title="KIDS", CARTOON CLASSICS 
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS JR
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 https://cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8
@@ -589,6 +610,8 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HtHqnVh/happy-kids-logo-tv.jpg" group-title="KIDS", HAPPY KIDS
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 https://cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8
@@ -737,6 +760,8 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165086
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mk0TZ4t/Eat-amp-Go.jpg" group-title="KNOWLEDGE", EAT & GO
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
@@ -887,6 +912,11 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
 http://metatvpro.xyz:25461/live/J2781/5030/193.ts
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/SxkPGX6/Boi-STUDIO-UNIVERSALS.jpg" group-title="MOVIES" tvg-id="", STUDIO UNIVERSAL
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-StudioUniversal.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RH7WRP9/Thrill.jpg" group-title="MOVIES", THRILL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
@@ -944,6 +974,10 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 http://perfecttv.net:8080/Perfecttv/Perfecttv/16
 http://119.156.26.155:8000/play/a07d/index.m3u8
@@ -952,6 +986,10 @@ http://119.156.26.155:8000/play/a07d/index.m3u8
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
 
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
 http://perfecttv.net:8080/Perfecttv/Perfecttv/14
 http://119.156.26.155:8000/play/a06p/index.m3u8
@@ -981,8 +1019,14 @@ http://119.156.26.155:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN+
 http://opplex.tv:8080/live/15155419/16175512/66244.ts
 http://119.156.26.155:8000/play/a06o/index.m3u8
-http://perfecttv.net:8080/Perfecttv/Perfecttv/12
 http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/sCdK1nW/Boi-MNX.jpg", MNX
+http://perfecttv.net:8080/Perfecttv/Perfecttv/12
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/GQ7MnJM/FX-Movie.jpg", FX
 http://fl2.moveonjoy.com/FX/index.m3u8
@@ -1005,6 +1049,9 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/27W2SCJ/MAVERICK-BLACK-CINEMA.jpg" group-title="MOVIES", MAVERICK BLACK CINEMA
 https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDkx7bd/Boi-AMC-THRILLERS.jpg" group-title="MOVIES", AMC THRILLERS
+https://bit.ly/3DVMI2j
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EAST
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3810
@@ -1015,7 +1062,7 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3806
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/463
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ CINEMA
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE ACTION
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3811
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9284
@@ -1030,8 +1077,7 @@ http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3803
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/725
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IN BLACK
-https://bit.ly/3DVMI2j
+EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IN BLACK
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1082
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
@@ -1093,6 +1139,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="MOVIES SERIES", WARNER TV
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
@@ -1360,24 +1408,32 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/QQjngRr/Musik-Indo.jpg" group-title="MUSIC", MUSIK INDONESIA
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdrhtf9/Smart-Select-20230611-122931-Picsart.jpg" group-title="MUSIC", NUSANTARA
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ykcf7Gx/Smart-Select-20230610-155814-Picsart.jpg" group-title="MUSIC", CLUBBING
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qzCbqr/Picsart-23-06-12-11-29-57-494.jpg" group-title="MUSIC", SONG TV
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
@@ -1447,6 +1503,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4tPJPq/KHAZANAH.jpg" group-title="RELIGI", KHAZANAH
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
@@ -1638,12 +1696,16 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CbRbfRP/Picsart-23-07-22-00-09-40-442.jpg" group-title="SPORTS", FOOTBALL TV
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ8cnBx/Picsart-23-07-22-00-18-49-167.jpg" group-title="SPORTS", SPORTS TV
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
 https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg
@@ -1651,54 +1713,72 @@ https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3yhPjRV/Picsart-23-07-21-23-35-49-233.jpg" group-title="SPORTS", ID.CYCLIST
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ltqrx4f/Picsart-23-07-22-00-00-18-515.jpg" group-title="SPORTS", BALAP
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 EXTINF: -1 tvg-logo="https://i.ibb.co.com/Wv0KcSh/HORIZON-SPORT.jpg" group-title="SPORTS", HORISON SPORTS
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKvDGtX/Picsart-23-07-22-00-34-46-038.jpg" group-title="SPORTS", HISTORICAL SPORTS
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sHbLv3f/Picsart-23-07-22-00-01-57-990.jpg" group-title="SPORTS", MOTOR RACING TV
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nbgSXvT/Picsart-23-07-21-23-38-47-454.jpg" group-title="SPORTS", FIGHT TV
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/5XDcC9s/Picsart-23-07-21-23-26-49-991.jpg" group-title="SPORTS", XTREM SPORTS
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/vhnss80/Picsart-23-07-22-00-04-24-794.jpg" group-title="SPORTS", SPEED TV
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nrSdxzf/Picsart-23-07-21-23-22-25-653.jpg" group-title="SPORTS", GOLF+
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
