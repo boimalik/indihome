@@ -974,6 +974,18 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
+https://mantul.biz.id:443/aruba/aruba/242.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
+https://mantul.biz.id:443/aruba/aruba/1092.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
+https://mantul.biz.id:443/aruba/aruba/13924.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+https://mantul.biz.id:443/aruba/aruba/27431.ts
+
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
@@ -986,22 +998,21 @@ http://119.156.26.155:8000/play/a07d/index.m3u8
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
 http://perfecttv.net:8080/Perfecttv/Perfecttv/14
 http://119.156.26.155:8000/play/a06p/index.m3u8
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
+http://180.92.238.118:8080/starmovies/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HKyqNsW/STAR-MOVIES-SELECT.jpg" group-title="MOVIES", STAR MOVIES SELECT
 http://119.156.26.155:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
+http://opplex.tv:8080/live/15155419/16175512/66228.ts
 http://119.156.26.155:8000/play/a07j/index.m3u8
 http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
-http://opplex.tv:8080/live/15155419/16175512/66228.ts
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1963
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX HD
@@ -1051,32 +1062,19 @@ https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDkx7bd/Boi-AMC-THRILLERS.jpg" group-title="MOVIES", AMC THRILLERS
 https://bit.ly/3DVMI2j
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/85SWvdw/Boi-AMC-Presents.jpg" group-title="MOVIES", AMC PRESENTS
+https://bit.ly/3SRLf1h
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EAST
 http://fl2.moveonjoy.com/STARZ/index.m3u8
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/3810
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1092
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ WEST
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/3806
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/463
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE ACTION
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/3811
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9284
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EDGE
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/645
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295079
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/3803
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/725
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IN BLACK
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1082
@@ -1092,40 +1090,12 @@ http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/5LWWNQz/Showtime-Women.jpg", SHOWTIME WOMEN
 http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
-https://bit.ly/3SRLf1h
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298526
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
-http://iptvtree.net:8080/F26646/f950f250/298526
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298526
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298526
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nw1qLS2/Boi-Epix.jpg" group-title="MOVIES", EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298527
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298527
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
-http://iptvtree.net:8080/F26646/f950f250/298527
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/c2QwBK0/Boi-Epix-Hits.jpg" group-title="MOVIES", EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298528
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298528
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
-http://iptvtree.net:8080/F26646/f950f250/298528
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/477TSwk/Boi-Epix-Drive-In.jpg" group-title="MOVIES", EPIX DRIVE IN
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298529
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298529
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
-http://iptvtree.net:8080/F26646/f950f250/298529
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
 
 
 *************************************** MOVIES SERIES *******************************************
