@@ -815,7 +815,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264767
 
 ****LIFESTYLe****
 
-***MOVIES***
+************************************ MOVIES **************************************
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -910,6 +910,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
 http://metatvpro.xyz:25461/live/J2781/5030/193.ts
 
@@ -991,39 +995,60 @@ https://mantul.biz.id:443/ekos/748382/13924.ts
 https://mantul.biz.id:443/ekos/748382/27431.ts
 https://mantul.biz.id:443/aruba/aruba/27431.ts
 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
+
+************************************ MOVIES II *******************************************
+
+
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/0nY1vLw/HBO-US.jpg", HBO HD
+http://fl2.moveonjoy.com/HBO/index.m3u8
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/HnK5jgX/HBO-US-2.jpg", HBO2 HD
+http://212.102.60.231/HBO_2/index.m3u8
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/jv1jWZC/HBO-COMEDY-US.jpg", HBO COMEDY HD
+http://212.102.60.231/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/7tM9JHK/HBO-FAMILY-US.jpg", HBO FAMILY HD
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/7yspfCL/HBO-SIGNATURE-US.jpg", HBO SIGNATURE HD
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/yXP0nPn/CINEMAX-US.jpg", CINEMAX HD
+http://212.102.60.231/CINEMAX/index.m3u8
+EXTINF:-1 group-title="MOVIES II" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
+https://bit.ly/3QOeNi9
+EXTINF:-1 group-title="MOVIES II" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
+https://bit.ly/3FFkNmF
+EXTINF:-1 group-title="MOVIES II" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
+http://208.115.225.174:14165
+
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES II" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9381.m3u8
 http://perfecttv.net:8080/Perfecttv/Perfecttv/16
 http://119.156.26.155:8000/play/a07d/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
+#EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES II" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES II", STAR MOVIES
 http://perfecttv.net:8080/Perfecttv/Perfecttv/14
 http://119.156.26.155:8000/play/a06p/index.m3u8
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES II", STAR MOVIES
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HKyqNsW/STAR-MOVIES-SELECT.jpg" group-title="MOVIES", STAR MOVIES SELECT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HKyqNsW/STAR-MOVIES-SELECT.jpg" group-title="MOVIES II", STAR MOVIES SELECT
 http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
 http://119.156.26.155:8000/play/a06q/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg" group-title="MOVIES II", &PRIVE HD
 http://opplex.tv:8080/live/15155419/16175512/66228.ts
 http://119.156.26.155:8000/play/a07j/index.m3u8
 http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1963
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="MOVIES II", &FLIX HD
 http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5410&deviceMac=00:1A:79:17:BF:CE
 http://119.156.26.155:8000/play/a06x/index.m3u8
 https://link.zozotv.xyz:443/live/mubaen/k895427/104.ts
@@ -1031,82 +1056,87 @@ http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1956
 https://tgaadi-web.tech/jiotv.php?tv=1477
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/yg3St6g/Movies-Now.jpg", MOVIES NOW
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yg3St6g/Movies-Now.jpg" group-title="MOVIES II", MOVIES NOW
 http://opplex.tv:8080/live/15155419/16175512/66271.ts
 http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
 http://119.156.26.155:8000/play/a066/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg" group-title="MOVIES II" , MN+
 http://opplex.tv:8080/live/15155419/16175512/66244.ts
 http://119.156.26.155:8000/play/a06o/index.m3u8
 http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/sCdK1nW/Boi-MNX.jpg", MNX
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/sCdK1nW/Boi-MNX.jpg", MNX
 http://starshare.live:8080/live/3569087360/6542246996/191.m3u8
 http://perfecttv.net:8080/Perfecttv/Perfecttv/12
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/GQ7MnJM/FX-Movie.jpg", FX
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/GQ7MnJM/FX-Movie.jpg", FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/4KWCXwj/FXX.jpg", FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/3MNVg7D/FXM.jpg", FX MOVIE
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/3MNVg7D/FXM.jpg", FX MOVIE
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/tJcR0qC/SYFY.jpg", SYFY
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/tJcR0qC/SYFY.jpg", SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", LOTUS MACAU
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/b5GsyBf/Boi-Movies-Action.jpg", MOVIES ACTION
 https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Jr3mGDN/action-hollywood-movies.jpg", ACTION HOLLYWOOD MOVIES
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/Jr3mGDN/action-hollywood-movies.jpg", ACTION HOLLYWOOD MOVIES
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27W2SCJ/MAVERICK-BLACK-CINEMA.jpg" group-title="MOVIES", MAVERICK BLACK CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27W2SCJ/MAVERICK-BLACK-CINEMA.jpg" group-title="MOVIES II", MAVERICK BLACK CINEMA
 https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDkx7bd/Boi-AMC-THRILLERS.jpg" group-title="MOVIES", AMC THRILLERS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDkx7bd/Boi-AMC-THRILLERS.jpg" group-title="MOVIES II", AMC THRILLERS
 https://bit.ly/3DVMI2j
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/85SWvdw/Boi-AMC-Presents.jpg" group-title="MOVIES", AMC PRESENTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/85SWvdw/Boi-AMC-Presents.jpg" group-title="MOVIES II", AMC PRESENTS
 https://bit.ly/3SRLf1h
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EAST
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EAST
 http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ WEST
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ WEST
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE ACTION
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE ACTION
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EDGE
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EDGE
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ ENCORE
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IN BLACK
+EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ IN BLACK
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1082
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg", SHOWTIME
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg", SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 http://212.102.60.231/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/7x3pW0z/Showtime-2.jpg", SHOWTIME 2
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/7x3pW0z/Showtime-2.jpg", SHOWTIME 2
 http://212.102.60.231/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/xsw8MWH/Showtime-Extreme.jpg", SHOWTIME EXTREME
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/xsw8MWH/Showtime-Extreme.jpg", SHOWTIME EXTREME
 http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/5LWWNQz/Showtime-Women.jpg", SHOWTIME WOMEN
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/5LWWNQz/Showtime-Women.jpg", SHOWTIME WOMEN
 http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nw1qLS2/Boi-Epix.jpg" group-title="MOVIES", EPIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nw1qLS2/Boi-Epix.jpg" group-title="MOVIES II", EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/c2QwBK0/Boi-Epix-Hits.jpg" group-title="MOVIES", EPIX HITS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/c2QwBK0/Boi-Epix-Hits.jpg" group-title="MOVIES II", EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/477TSwk/Boi-Epix-Drive-In.jpg" group-title="MOVIES", EPIX DRIVE IN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/477TSwk/Boi-Epix-Drive-In.jpg" group-title="MOVIES II", EPIX DRIVE IN
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
+EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", STAR TV
+https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
+
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", LOTUS MACAU
+https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/K2BScQ8/Boi-i-QIYI.jpg", IQIYI
+http://15.235.144.67:35461/live/654321/123456/708.m3u8
 
 
 *************************************** MOVIES SERIES *******************************************
@@ -1264,28 +1294,11 @@ http://ktpremium.xyz:2095/live/yv2268/22681081/26097.ts
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157594
 http://iptvtree.net:8080/F26646/f950f250/157594
 
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/0nY1vLw/HBO-US.jpg", HBO HD
-http://fl2.moveonjoy.com/HBO/index.m3u8
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/HnK5jgX/HBO-US-2.jpg", HBO2 HD
-http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/jv1jWZC/HBO-COMEDY-US.jpg", HBO COMEDY HD
-http://212.102.60.231/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/7tM9JHK/HBO-FAMILY-US.jpg", HBO FAMILY HD
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/7yspfCL/HBO-SIGNATURE-US.jpg", HBO SIGNATURE HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co.com/yXP0nPn/CINEMAX-US.jpg", CINEMAX HD
-http://212.102.60.231/CINEMAX/index.m3u8
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
-https://bit.ly/3QOeNi9
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
-https://bit.ly/3FFkNmF
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
-http://208.115.225.174:14165
 
 
-**** MUSIC *****
+*************************************** MUSIC ************************************************
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MgwNV67/mtv-live-logo-tv.jpg" group-title="MUSIC", MTV LIVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
