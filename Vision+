@@ -451,6 +451,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/V0GB1Mm/Aniplus.jpg" group-title="KIDS"
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/631.png/revision/latest/smart/width/250/height/250?cb=20240923154614" group-title="KIDS", ASTRO CERIA
+http://15.235.144.67:35461/live/654321/123456/4353.m3u8
 https://link.zozotv.xyz:443/mubaen/k895427/31
 
 #EXTINF:-1 tvg-logo="https://iili.io/bEMPlR.png" group-title="KIDS", BIZNET KIDS
@@ -978,15 +979,16 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
-https://mantul.biz.id:443/aruba/aruba/242.ts
+https://mantul.biz.id:443/ekos/748382/242.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
-https://mantul.biz.id:443/aruba/aruba/1092.ts
+https://mantul.biz.id:443/ekos/748382/1092.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
-https://mantul.biz.id:443/aruba/aruba/13924.ts
+https://mantul.biz.id:443/ekos/748382/13924.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+https://mantul.biz.id:443/ekos/748382/27431.ts
 https://mantul.biz.id:443/aruba/aruba/27431.ts
 
 #EXT-X-TARGETDURATION:2
@@ -994,6 +996,8 @@ https://mantul.biz.id:443/aruba/aruba/27431.ts
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9381.m3u8
 http://perfecttv.net:8080/Perfecttv/Perfecttv/16
 http://119.156.26.155:8000/play/a07d/index.m3u8
 
@@ -1007,9 +1011,10 @@ http://119.156.26.155:8000/play/a06p/index.m3u8
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
-http://180.92.238.118:8080/starmovies/index.mpd
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HKyqNsW/STAR-MOVIES-SELECT.jpg" group-title="MOVIES", STAR MOVIES SELECT
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
 http://119.156.26.155:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
@@ -1019,6 +1024,7 @@ http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1963
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5410&deviceMac=00:1A:79:17:BF:CE
 http://119.156.26.155:8000/play/a06x/index.m3u8
 https://link.zozotv.xyz:443/live/mubaen/k895427/104.ts
 http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
@@ -1040,6 +1046,7 @@ http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/sCdK1nW/Boi-MNX.jpg", MNX
+http://starshare.live:8080/live/3569087360/6542246996/191.m3u8
 http://perfecttv.net:8080/Perfecttv/Perfecttv/12
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/GQ7MnJM/FX-Movie.jpg", FX
@@ -1054,7 +1061,8 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/tJcR0qC/SYFY.jpg", SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", LOTUS MACAU
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", LOTUS MACAU
+https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Jr3mGDN/action-hollywood-movies.jpg", ACTION HOLLYWOOD MOVIES
@@ -1333,6 +1341,7 @@ https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fvqrvCz/Picsart-23-06-27-05-09-13-806.jpg" group-title="MUSIC", PRAMBORS
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1157.ts
+https://mantul.biz.id:443/ekos/748382/1157.ts
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264761
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264761
 http://iptvtree.net:8080/F26646/f950f250/264761
@@ -1520,21 +1529,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/DzmfSRC/Beinsport-1.jpg" group-title="SPORTS", BEIN SPORTS 1
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37432.ts
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-#http://iptvtree.net:8080/F26646/f950f250/165105
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/DzmfSRC/Beinsport-1.jpg" group-title="SPORTS", BEIN SPORTS 2
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/NjJNQWL/Beinsports-3.jpg" group-title="SPORTS", BEIN SPORTS 3
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37433.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-#http://iptvtree.net:8080/F26646/f950f250/298506
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
