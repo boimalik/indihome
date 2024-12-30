@@ -1073,7 +1073,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/12
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/GQ7MnJM/FX-Movie.jpg", FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/4KWCXwj/FXX.jpg", FXX
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/4KWCXwj/FXX.jpg", FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/3MNVg7D/FXM.jpg", FX MOVIE
