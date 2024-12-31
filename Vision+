@@ -451,6 +451,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/V0GB1Mm/Aniplus.jpg" group-title="KIDS"
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/631.png/revision/latest/smart/width/250/height/250?cb=20240923154614" group-title="KIDS", ASTRO CERIA
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1016545&extension=ts&play_token=A3sdZGAflh
 http://15.235.144.67:35461/live/654321/123456/4353.m3u8
 https://link.zozotv.xyz:443/mubaen/k895427/31
 
@@ -529,11 +530,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298536
 http://iptvtree.net:8080/F26646/f950f250/298536
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nBhpYXM/IndiKids.jpg" group-title="KIDS", FUN PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-#http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298539
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
-#https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
-#http://iptvid.my.id/hmm/indikids.m3u8
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/zhSLhhS/kids-tv-logo-mnc.jpg", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1353,6 +1354,7 @@ https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fvqrvCz/Picsart-23-06-27-05-09-13-806.jpg" group-title="MUSIC", PRAMBORS
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1157.ts
 https://mantul.biz.id:443/ekos/748382/1157.ts
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264761
@@ -1625,6 +1627,8 @@ EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Wv0KcSh/HORIZON-SPORT.jpg" group-title="SPORTS", HORISON SPORTS
+https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8
+
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=HorizonSports
