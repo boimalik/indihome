@@ -154,6 +154,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://v6.siar.us/pujatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j32TF2j/RRI-NET.jpg" group-title="LOCAL", RRI NET
+https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
 https://public-streaming.rri.co.id/memfs/b3169f10-7846-496c-a186-698ea5ddd310.m3u8
 https://rrinet.rri.co.id/hls/live.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
@@ -451,9 +452,9 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/V0GB1Mm/Aniplus.jpg" group-title="KIDS"
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/631.png/revision/latest/smart/width/250/height/250?cb=20240923154614" group-title="KIDS", ASTRO CERIA
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1016545&extension=ts&play_token=A3sdZGAflh
-http://15.235.144.67:35461/live/654321/123456/4353.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q6WFRc7/Boi-astro-ceria.jpg" group-title="KIDS", ASTRO CERIA
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052389
+http://15.235.144.67:35461/live/654321/123456/4353.m3u8 (ASTRO RIA)
 https://link.zozotv.xyz:443/mubaen/k895427/31
 
 #EXTINF:-1 tvg-logo="https://iili.io/bEMPlR.png" group-title="KIDS", BIZNET KIDS
@@ -726,7 +727,7 @@ http://beetv.my.id/x/usee-lingua-gojokkk.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/02s4Rrv/HGTV.jpg" group-title="KNOWLEDGE", HGTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/02s4Rrv/HGTV.jpg" group-title="KNOWLEDGE", HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/hgtv_norvegicus/playlist.m3u8
@@ -781,6 +782,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7NRD8z8/Indonesiana-TV.jpg" group-title="KNOWLEDGE", INDONESIANA
+https://tvstreamcast.com/indonesiana.m3u8
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
@@ -869,6 +871,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdxzmFW/Rock-Action.jpg" group-title="MOVIES", ROCK ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rv58DjR/Rock-Enter.jpg" group-title="MOVIES", ROCK ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Y81cc1D/Smart-Select-20230607-233812-Picsart.jpg", CINEMACHI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
@@ -894,28 +907,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinema
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdxzmFW/Rock-Action.jpg" group-title="MOVIES", ROCK ACTION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rv58DjR/Rock-Enter.jpg" group-title="MOVIES", ROCK ENTERTAINMENT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DCkxyj5/Tv-N-Movies.jpg" group-title="MOVIES", TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", ASTRO BOO
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052385
-http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/605290
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
-http://metatvpro.xyz:25461/live/J2781/5030/193.ts
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -981,6 +977,16 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zbMmLpD/Picsart-23-06-12-22-58-28-401.jpg" group-title="MOVIES", ASTRO BOO
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052385
+http://15.235.144.67:35461/live/654321/123456/722.m3u8
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/605290
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
+http://metatvpro.xyz:25461/live/J2781/5030/193.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZ3bwKf/Boi-astro-showcase.jpg" group-title="MOVIES", ASTRO SHOWCASE
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052583
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
 https://mantul.biz.id:443/inetwork/gayanet12/242.ts
@@ -1086,17 +1092,6 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/b5GsyBf/Boi-Movies-Action.jpg", MOVIES ACTION
 https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/Jr3mGDN/action-hollywood-movies.jpg", ACTION HOLLYWOOD MOVIES
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27W2SCJ/MAVERICK-BLACK-CINEMA.jpg" group-title="MOVIES II", MAVERICK BLACK CINEMA
-https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDkx7bd/Boi-AMC-THRILLERS.jpg" group-title="MOVIES II", AMC THRILLERS
-https://bit.ly/3DVMI2j
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/85SWvdw/Boi-AMC-Presents.jpg" group-title="MOVIES II", AMC PRESENTS
-https://bit.ly/3SRLf1h
-
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ EAST
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/JB5xWF0/STARZ-TV.jpg", STARZ WEST
@@ -1128,6 +1123,17 @@ http://fl2.moveonjoy.com/EPIX/index.m3u8
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/477TSwk/Boi-Epix-Drive-In.jpg" group-title="MOVIES II", EPIX DRIVE IN
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/Jr3mGDN/action-hollywood-movies.jpg", ACTION HOLLYWOOD MOVIES
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27W2SCJ/MAVERICK-BLACK-CINEMA.jpg" group-title="MOVIES II", MAVERICK BLACK CINEMA
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDkx7bd/Boi-AMC-THRILLERS.jpg" group-title="MOVIES II", AMC THRILLERS
+https://bit.ly/3DVMI2j
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/85SWvdw/Boi-AMC-Presents.jpg" group-title="MOVIES II", AMC
+https://bit.ly/3SRLf1h
 
 EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/BnWGR62/LOTUS-MACAU.jpg", STAR TV
 https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
@@ -1672,6 +1678,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 http://89.187.175.143:80/3028/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Wv0KcSh/HORIZON-SPORT.jpg" group-title="SPORTS", PREMIER LEAGUE
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1016545&extension=ts&play_token=A3sdZGAflh
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297425
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/297425
 #http://iptvtree.net:8080/F14995/a84c0963/297425
@@ -1683,6 +1690,8 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297425
 https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/QdvbGVh/Picsart-23-07-19-11-08-42-621.jpg" group-title="SPORTS", EURO SPORTS
+http://15.235.144.67:35461/live/654321/123456/647.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
@@ -1691,10 +1700,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/03.m3u8
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/TrrVdzn/Picsart-23-07-19-11-18-59-445.jpg" group-title="SPORTS", PREMIER SPORTS
+http://15.235.144.67:35461/live/654321/123456/687.m3u8
 http://mytv-extra.com:80/t12mgxyb335/9832948789/33005
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/03.m3u8
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1927,7 +1934,8 @@ http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 http://210.210.155.37/uq2663/h/h206/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tJBFyD8/Cinema-World.jpg" group-title="ALTERNATIVE", CINEMAWORLD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tJBFyD8/Cinema-World.jpg" group-title="ALTERNATIVE", CINEMA WORLD HD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RH7WRP9/Thrill.jpg" group-title="ALTERNATIVE", THRILL
