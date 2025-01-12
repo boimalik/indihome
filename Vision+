@@ -2,7 +2,7 @@
 
 ***LOCAL***
 
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="LOCAL" group-logo="https://i.ibb.co.com/VN6Gk43/Boi-garuda.png", TRANS TV
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="LOCAL" group-logo="https://i.ibb.co.com/YXnCdpw/Boi-Garuda-ID.png", TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
@@ -462,6 +462,7 @@ https://link.zozotv.xyz:443/mubaen/k895427/31
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dbL9bv1/Boomerang.jpg" group-title="KIDS", BOOMERANG
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736714803/ei/09WDZ9LlELTs4-EP2pjSgQQ/ip/180.243.252.183/id/2UOwO_N17ms.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/id/siu/1/bui/AY2Et-MNfcQdJzXXMnarzBy72OAU5DrxULwJYmsy112Fg94d4fTrp51OYc_k57mARu--nFO0Lg/spc/9kzgDXsYMe-Q5_K5GQ18aE6mTAjIArhQvTPaiAgXQ367iNrh-52P9qhS5mfkEe_eWctI5l4MeuOk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMiH5SlzWdrM3wt-YCBTMIIpDgh1o91MNqGxRYnS08hKAiEAxHOpjDr9k5nkAKaF215vKWq5N1g8xPWLLwHpL-kYbIs%3D/file/index.m3u8
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1125
@@ -648,7 +649,7 @@ https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
 
 ***KNOWLEDGE***
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jgbb2dM/TVRI-WORLD.jpg" group-title="KNOWLEDGE" group-logo="https://i.ibb.co.com/XD3mzW6/Boi-knowledge.png", TVRI WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jgbb2dM/TVRI-WORLD.jpg" group-title="KNOWLEDGE" group-logo="https://i.ibb.co.com/sJG85GJ/Boi-Knowledge-Tv.png", TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFF8KMs/CGTN-Documentary.jpg" group-title="KNOWLEDGE", CGTN DOCUMENTARY
@@ -1354,17 +1355,20 @@ music tv ==> #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712c
 https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/wRp0BJp/Musica-Studio.jpg", MUSICA STUDIOS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736714636/ei/LNWDZ5_wDq-pssUPr6XT0Qw/ip/180.243.252.183/id/_7u2hpIfXvA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-NXr0xlzzfnbqlGm-10YHVChlO_jSoxQCM3FhH2e9Zi2Nat_EZQzwm7hHcISzp0nyvp3Q/spc/9kzgDVLMaNYNabyMtkh-TMprs7un_Za4mjtB9Ss7EVU9PZihJuQ98h3JfleJoO8yAK-tLQCePal0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKqYznQpJpzuRqB_XNQn_c7Lw1ObeCXRCXJ-BWmHOftIAiAh5gbYKGjQx6XyCChVKbbncURsCCTHuFM4a-iebiOC9Q%3D%3D/file/index.m3u8
 https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
 https://ythls.armelin.one/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 https://ythls.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/YB1bkjj/Smart-Select-20230609-105725-Picsart.jpg", NAGASWARA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736714034/ei/0tKDZ_iHMaXQssUPiras0Ag/ip/180.243.252.183/id/IgWLRL3ZTmA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-Mehkr8To6wdOS1OYLT9tT5GqwMvPo9XAPwfl6eMOVkFlWb4__6RRIKqyCCz-Wji37KgQ/spc/9kzgDZoEfQUyIkC2ptI-ClvpQiwoVHZxUfEyFUbbDavACll6MheZzs04Z8gJSqaRz0UbTe45Fu6X/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSe9mlQm1xmZzgpVuSESm5NbDp7eKYTfasYugUmucZsECIQCJ4SUv8xbX09RHhEkde0j-v5W3m18ZzV2j83CQMwfZrA%3D%3D/file/index.m3u8
 https://s.urfan.id/nagaswara
 https://s.id/nagaswarahd
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/WfMdRN5/Aquarius-Musikindo.jpg", AQUARIUS MUSIKINDO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736714494/ei/ntSDZ5vhH6K8vcAP2Mmh8AM/ip/180.243.252.183/id/dg5tyFRkyX8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-MwJ-lzbs8UabV2erDDRdqE0XzkfUfuGz4RuhGlenaskCCIiQb1ic9Ykhp9i4P1eNMx4Q/spc/9kzgDZ3nDROjASbXzBet3OAhBuhyrt6JZnafh2jigU1c9Z3O4wG758ItVu6pacnzZNoJNwes6Oer/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDm6DgwMw8JmcnL1ECLC8QDEmHl8qLQ4I5XeMOzUuBnoCIQCe88X5WuXmP8RxTrxdXyrKQNIaC_mxZ5qLBFxEQB_BDA%3D%3D/file/index.m3u8
 https://s.urfan.id/aquarius
 https://s.id/aquariusmusikindo
 https://ythls.armelin.one/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
@@ -1454,7 +1458,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560ac
 
 *************************************************** RELIGI ******************************************************
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vj69HCV/Alquran-Alkarim.jpg" group-title="RELIGI" group-logo="https://i.ibb.co.com/mH13v53/Boi-religi.png", ALQURAN KHAREEM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vj69HCV/Alquran-Alkarim.jpg" group-title="RELIGI" group-logo="https://i.ibb.co.com/KWfwWzH/Boi-Religious.png", ALQURAN KHAREEM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
