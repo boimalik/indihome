@@ -767,29 +767,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Crim
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 http://beetv.my.id/x/usee-lingua-gojokkk.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
-#EXTVLCOPT:http-referrer=https://visionplus.id
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/02s4Rrv/HGTV.jpg" group-title="KNOWLEDGE", HGTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/02s4Rrv/HGTV.jpg" group-title="KNOWLEDGE", HGTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298535
 http://iptv12k.com:35461/654321/123456/1744
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/hgtv_norvegicus/playlist.m3u8
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298535
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JdvRSn/AFN.jpg" group-title="KNOWLEDGE", ASIAN FOOD NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
-https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JdvRSn/AFN.jpg" group-title="KNOWLEDGE", ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1073,6 +1054,7 @@ http://119.156.26.155:8000/play/a07d/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES II" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
+http://xtv.ooo:8080/live/874246786/743567899/66224.ts
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="MOVIES II", STAR MOVIES
@@ -1152,14 +1134,14 @@ http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg", SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 http://212.102.60.231/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg", SHOWTIME SHOWCASE
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1465.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/7x3pW0z/Showtime-2.jpg", SHOWTIME 2
 http://212.102.60.231/SHOWTIME_2/index.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/xsw8MWH/Showtime-Extreme.jpg", SHOWTIME EXTREME
 http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/5LWWNQz/Showtime-Women.jpg", SHOWTIME WOMEN
 http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="MOVIES II" tvg-logo="https://i.ibb.co.com/pwRGF4S/Showtime.jpg", SHOWTIME SHOWCASE
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1465.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nw1qLS2/Boi-Epix.jpg" group-title="MOVIES II", EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -2088,7 +2070,11 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157597
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="ALTERNATIVE", HGTV
 http://iptv12k.com:35461/654321/123456/1744
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/957723
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298535
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JdvRSn/AFN.jpg" group-title="ALTERNATIVE", ASIAN FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xhqZ3z7/Mentari-TV.jpg" group-title="ALTERNATIVE", MENTARI TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298546
@@ -2101,46 +2087,46 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264753
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg" group-title="ALTERNATIVE", CARTOON NETWORK
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157593
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="ALTERNATIVE", KOMPAS TV
+EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="ALTERNATIVE", KOMPAS TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch102.m3u8
-#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="ALTERNATIVE", TVRI NASIONAL
+EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="ALTERNATIVE", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch103.m3u8
-#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="ALTERNATIVE", TVRI SPORT
+EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="ALTERNATIVE", TVRI SPORT
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch104.m3u8
-#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="ALTERNATIVE", TVRI SPORT HD
+EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="ALTERNATIVE", TVRI SPORT HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch105.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="ALTERNATIVE", SEA TODAY
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="ALTERNATIVE", SEA TODAY
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch106.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="ALTERNATIVE", VTV VIVA
+EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="ALTERNATIVE", VTV VIVA
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="ALTERNATIVE", ANTV HD
+EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="ALTERNATIVE", ANTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch108.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="ALTERNATIVE", TVONE HD
+EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="ALTERNATIVE", TVONE HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch109.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="ALTERNATIVE", METRO TV 
+EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="ALTERNATIVE", METRO TV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch110.m3u8
-#EXTINF:-1 tvg-logo="https://rushia-thumbor.mediaformasi.com/unsafe/1000x0/content/images/size/w1000/wordpress/2020/07/1594699707-picsay.jpg" group-title="ALTERNATIVE", MAGNA TV HD
+EXTINF:-1 tvg-logo="https://rushia-thumbor.mediaformasi.com/unsafe/1000x0/content/images/size/w1000/wordpress/2020/07/1594699707-picsay.jpg" group-title="ALTERNATIVE", MAGNA TV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch111.m3u8
-#EXTINF:-1 tvg-logo="https://micms.mediaindonesia.com/storage/app/media/FOTO/Operator/metrotv.jpg" group-title="ALTERNATIVE", BN TV
+EXTINF:-1 tvg-logo="https://micms.mediaindonesia.com/storage/app/media/FOTO/Operator/metrotv.jpg" group-title="ALTERNATIVE", BN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch112.m3u8
-#EXTINF:-1 tvg-logo="https://btv.id/img/btv-livestream.webp" group-title="ALTERNATIVE", BTV HD
+EXTINF:-1 tvg-logo="https://btv.id/img/btv-livestream.webp" group-title="ALTERNATIVE", BTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch113.m3u8
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="ALTERNATIVE", NET TV HD
+EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="ALTERNATIVE", NET TV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch114.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="ALTERNATIVE", RTV HD
+EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="ALTERNATIVE", RTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch115.m3u8
 
