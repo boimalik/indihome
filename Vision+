@@ -95,7 +95,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png" group-title="TV INDO", NET TV
+EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png" group-title="TV INDO", NET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -105,6 +105,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png" group-title="TV INDO", NET TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_rtv_small1.png" group-title="TV INDO", RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -175,7 +180,7 @@ http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y26Xw3f/ficom-logo-tv.jpg" group-title="TV INDO", FICOM CHANNEL
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/m5H2khp/puja-logo-tv.jpg" group-title="TV INDO", PUJA TV
+EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/m5H2khp/puja-logo-tv.jpg" group-title="TV INDO", PUJA TV
 https://v6.siar.us/pujatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j32TF2j/RRI-NET.jpg" group-title="TV INDO", RRI NET
@@ -212,6 +217,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://nonton.wap.sh/id/016.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/3v7GHyb/CNBC.jpg" group-title="NEWS", CNBC INDONESIA
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CnBc.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/3v7GHyb/CNBC.jpg" group-title="NEWS", CNBC
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://nonton.wap.sh/id/017.m3u8
@@ -1969,11 +1977,6 @@ https://playlist-coffee.my.id/oxy/daaitv.m3u8
 EXTINF: -1 tvg-logo="https://i.ibb.co.com/bKPKFnt/IDX.jpg" group-title="ALTERNATIVE", IDX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KNnYpzj/Picsart-23-07-19-10-49-59-499.jpg" group-title="ALTERNATIVE", GARUDA TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpBm6Kb/RADAR-TV.jpg" group-title="ALTERNATIVE", RADAR TV
-https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-
 EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="ALTERNATIVE", HBO HD
 EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/hbo_family.jpg" group-title="ALTERNATIVE", Hbo family HD
 EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/hbo_hits.jpg" group-title="ALTERNATIVE", Hbo Hits HD
@@ -2030,6 +2033,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="ALTERNATIVE", WARNER TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
+http://tv.kudigital.pw:8080/28122024KM/28122024/67
 http://iptv12k.com:35461/654321/123456/2115
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 
