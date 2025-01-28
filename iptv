@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600"
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/refs/heads/main/EPG%20AKTV.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://i.mjh.nz/SamsungTVPlus/all.xml" refresh="3600"
 ***LOCAL***
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/52vWM56/Transtv-malik.gif" group-title="LOCAL", TRANS TV
@@ -19,12 +18,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Kw2Snsq/RCTI-malik.gif" group-title="LOCAL", RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/3Yg6TQ0/GTV-malik.gif" group-title="LOCAL", GTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/rp9CqW6/Mnctv-malik.gif" group-title="LOCAL", MNCTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
@@ -32,6 +31,7 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/2ZG3Z5y/INews-malik.png" group-title="LOCAL", INEWS
 https://raw.githubusercontent.com/arisdwr/pl/main/s/iNews.m3u8
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ThQyYqc/Moji-malik.png" group-title="LOCAL", MOJI
@@ -88,9 +88,6 @@ https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/P4dCY72/Insert-malik.png" group-title="LOCAL", INSERT
 https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
-
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/drShtK4/Magnatv-malik.gif" group-title="LOCAL", MAGNA
-http://iptvid.my.id/hmm/useephoto.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjpZRWq/All-Play-malik.png" group-title="LOCAL", ALL PLAY
 https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -150,6 +147,7 @@ https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tJPf1yM/Animax-malik.png" group-title="KIDS", ANIMAX
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dGF5SsZ/Aniplus-malik.png" group-title="KIDS", ANIPLUS
@@ -404,8 +402,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5410&deviceMac=00:1A:79:17:
 https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/musikindo/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Lgpbw6/MTV-malik.png" group-title="MUSIK", MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIK", MUSIC TV
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584547
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Lgpbw6/MTV-malik.png" group-title="MUSIK", MTV LIVE
 https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRVQ4x9/MTV-90s-malik.png" group-title="MUSIK", MTV 90s
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830531
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JzGKdMW/Prambors-malik.png" group-title="MUSIK", PRAMBORS
 https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
@@ -441,6 +445,9 @@ http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&am
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yQwcJc0/ANtara-malik.png" group-title="NEWS", ANTARA
 https://cdn12jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/drShtK4/Magnatv-malik.gif" group-title="NEWS", MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/QC4nLSZ/SEa-Today-malik.png" group-title="NEWS", SEA TODAY
 https://raw.githubusercontent.com/arisdwr/pl/main/s/SeaToday.m3u8
@@ -543,7 +550,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/7
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/TDyBxCB/Bein-sports-3-malik.png" group-title="SPORTS", BEIN SPORTS 3
 https://mantul.biz.id:443/inetwork/gayanet12/8
 
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_new-horizonsport_small.png" group-title="SPORTS", HORISON SPORTS
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/2M1L417/Horizon-Sports-malik.png" group-title="SPORTS", HORISON SPORTS
 https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/8cvBGQ6/Soccer-Channel-malik.png", SOCCER CHANNEL
