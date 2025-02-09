@@ -3,9 +3,10 @@
                          ***   TV INDO   ***
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/52vWM56/Transtv-malik.gif" group-title="TV INDO", TRANS TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
+https://raw.githubusercontent.com/arisdwr/pl/main/s/TransTV.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/yXNS6KH/Trans7-malik-L.gif" group-title="TV INDO", TRANS7
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/yXNS6KH/Trans7-malik-L.gif" group-title="TV INDO", TRANS 7
 https://raw.githubusercontent.com/arisdwr/pl/main/s/Trans7.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/qF9LG7G/Indosiar-malik.gif" group-title="TV INDO", INDOSIAR
@@ -23,10 +24,12 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/3Yg6TQ0/GTV-malik.gif" group-title="TV INDO", GTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
 https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/rp9CqW6/Mnctv-malik.gif" group-title="TV INDO", MNCTV
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584546
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
@@ -47,6 +50,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 https://raw.githubusercontent.com/arisdwr/pl/main/s/NetTV.m3u8
  
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Bn5cjL9/Rajawali-Televisi-malik.png" group-title="TV INDO", RTV
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 https://raw.githubusercontent.com/arisdwr/pl/main/s/RTV.m3u8
 https://kusnadipepenk.github.io/campeign/rtv.m3u8
 
@@ -61,6 +65,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/sW4kYkX/Metrotv-malik.gif" group-title="TV INDO", METRO TV
+https://raw.githubusercontent.com/arisdwr/pl/main/s/MetroTV.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/S3JXQx8/Kompas-malik.gif" group-title="TV INDO", KOMPAS TV
@@ -189,19 +194,24 @@ http://iptvid.my.id/hmm/mncnews.m3u8
                             ***    PREMIUM CHANNEL    ***
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vL1P7Rg/HBO-malik.png" group-title="PREMIUM CHANNEL", HBO
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NntHRzr/HBO-Family-malik.png" group-title="PREMIUM CHANNEL", HBO Family
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/R4N2VpR/HBO-Hits-malik.png" group-title="PREMIUM CHANNEL", HBO Hits
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/3y48Fk7/HBO-Signature-malik.png" group-title="PREMIUM CHANNEL", HBO Signature
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co.com/Kyn4nwW/Cinemax-malik.png" group-title="PREMIUM CHANNEL", Cinemax
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8mwyLnW/Galaxy-malik.png" group-title="PREMIUM CHANNEL", GALAXY
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
@@ -218,6 +228,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
+https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
 EXTINF:-1 tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="PREMIUM CHANNEL", PARAMOUNT
 
@@ -237,16 +248,28 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/HitsMovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JxM8Kb/HIts-malik.png" group-title="PREMIUM CHANNEL", HITS
 https://raw.githubusercontent.com/arisdwr/pl/main/s/Hits.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GRGzdbW/TVN-Movies-malik.png" group-title="PREMIUM CHANNEL", TVN MOVIES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GRGzdbW/TVN-Movies-malik.png" group-title="PREMIUM CHANNEL", TVN MOVIES
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vzLcDjs/TVN-malik.png" group-title="PREMIUM CHANNEL", TVN 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vzLcDjs/TVN-malik.png" group-title="PREMIUM CHANNEL", TVN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1bWYTgw/KIX-malik.png" group-title="PREMIUM CHANNEL", KIX
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ncTMmHD/K-malik.png" group-title="PREMIUM CHANNEL", K+
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", GEM
@@ -334,6 +357,9 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z1fjZQy/Dreamworks-malik.png" group-title="KIDS", DREAMWORKS
+https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8?c
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088912
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/drmwrk/manifest.mpd
 http://iptvid.my.id/hmm/drmwrk.m3u8
@@ -458,7 +484,7 @@ http://iptvtree.net:8080/ace2524d/15a571c413/171979
                             *****   MUSIC   *****
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bf2131N/MUSIC-Indo-malik.png" group-title="MUSIC", MUSIK INDONESIA
-https://cdn09jtedge.indihometv.com/joss/134/MUSICindo/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/MUSICindo/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
