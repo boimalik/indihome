@@ -194,24 +194,24 @@ http://iptvid.my.id/hmm/mncnews.m3u8
                             ***    PREMIUM CHANNEL    ***
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vL1P7Rg/HBO-malik.png" group-title="PREMIUM CHANNEL", HBO
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NntHRzr/HBO-Family-malik.png" group-title="PREMIUM CHANNEL", HBO Family
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/R4N2VpR/HBO-Hits-malik.png" group-title="PREMIUM CHANNEL", HBO Hits
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/3y48Fk7/HBO-Signature-malik.png" group-title="PREMIUM CHANNEL", HBO Signature
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co.com/Kyn4nwW/Cinemax-malik.png" group-title="PREMIUM CHANNEL", Cinemax
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8mwyLnW/Galaxy-malik.png" group-title="PREMIUM CHANNEL", GALAXY
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
@@ -233,6 +233,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 EXTINF:-1 tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="PREMIUM CHANNEL", PARAMOUNT
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rb9hdR6/Warner-Bros-malik.png" group-title="PREMIUM CHANNEL", WARNER 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
+
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 
