@@ -171,8 +171,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/d5n1G6H/ATV-indonesia.jpg" group-title="TV INDO", ATV
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-ATV.m3u8
 https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-ATV.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.ts
 https://nonton.site:8443/live/ekos/748344x/29899.m3u8
 
@@ -543,6 +543,7 @@ http://iptvtree.net:8080/F26646/f950f250/298536
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nBhpYXM/IndiKids.jpg" group-title="KIDS", FUN PLANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
@@ -1878,21 +1879,6 @@ EXTINF:-1  tvg-logo="https://mail.mncvision.tv/userfiles/image/channel/cinemax.j
 #EXTINF:-1 tvg-id="" tvg-name="IDS: HBO SIGNATURE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hbosignature.png" group-title="FILM | HBO",IDS: HBO SIGNATURE VIP
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMAX VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cinemax.png" group-title="FILM | HBO",IDS: CINEMAX VIP
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png", HBO HITS
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png", HBO FAMILY
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 
 #EXTINF:-1 group-title="ALTERNATIVE" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
