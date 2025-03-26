@@ -900,8 +900,11 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/SxkPGX6/Boi-STUDIO-UNIVERSALS.jpg" group-title="MOVIES" tvg-id="", STUDIO UNIVERSAL
+EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/SxkPGX6/Boi-STUDIO-UNIVERSALS.jpg" group-title="MOVIES" tvg-id="", STUDIO UNIVERSAL
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-StudioUniversal.m3u8
+
+#EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/SxkPGX6/Boi-STUDIO-UNIVERSALS.jpg" group-title="MOVIES" tvg-id="", STUDIO UNIVERSAL
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RH7WRP9/Thrill.jpg" group-title="MOVIES", THRILL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
