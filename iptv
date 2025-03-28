@@ -259,7 +259,7 @@ https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
 https://raw.githubusercontent.com/arisdwr/pl/main/s/AXN.m3u8
 
-#EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="MOVIES" tvg-id="", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="PREMIUM CHANNEL" tvg-id="", STUDIO UNIVERSAL
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GshHFvk/Hits-Now-malik.png" group-title="PREMIUM CHANNEL", HITS NOW
