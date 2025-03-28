@@ -259,7 +259,11 @@ https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
 https://raw.githubusercontent.com/arisdwr/pl/main/s/AXN.m3u8
 
+#EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="MOVIES" tvg-id="", STUDIO UNIVERSAL
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GshHFvk/Hits-Now-malik.png" group-title="PREMIUM CHANNEL", HITS NOW
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7ST598/Hit-Movies-malik.png" group-title="PREMIUM CHANNEL", HITS MOVIES
@@ -316,6 +320,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GHLbM3z/Cinema-World-malik.png" group-title="PREMIUM CHANNEL", CINEMAWORLD 
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Yp75rJL/Celestial-Movies-malik.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES
@@ -537,12 +542,19 @@ https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/MUSICindo/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584547
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Lgpbw6/MTV-malik.png" group-title="MUSIC", MTV LIVE
 https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRVQ4x9/MTV-90s-malik.png" group-title="MUSIC", MTV 90s
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830531
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JzGKdMW/Prambors-malik.png" group-title="MUSIC", PRAMBORS
