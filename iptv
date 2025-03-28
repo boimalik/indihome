@@ -259,7 +259,7 @@ https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
 https://raw.githubusercontent.com/arisdwr/pl/main/s/AXN.m3u8
 
-#EXTINF:-1 tvg-url=" tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="PREMIUM CHANNEL" tvg-id="", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="PREMIUM CHANNEL", STUDIO UNIVERSAL
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GshHFvk/Hits-Now-malik.png" group-title="PREMIUM CHANNEL", HITS NOW
@@ -320,12 +320,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GHLbM3z/Cinema-World-malik.png" group-title="PREMIUM CHANNEL", CINEMAWORLD 
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEBW50xPjLV_f2qxi2IVloE
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Yp75rJL/Celestial-Movies-malik.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES
 http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nq7ffs8Q/Boi-Malik-CCM.png" group-title="PREMIUM CHANNEL", CELESTIAL CLASSIC MOVIES
+http://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wp5qmdmt/Iflix-boi.png" group-title="PREMIUM CHANNEL", IFLIX HORROR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEo8SDdS2NbzVDZ6f9tcKx2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r2hHGwbk/Astro-Boi.png" group-title="PREMIUM CHANNEL", ASTRO BOO
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
@@ -542,8 +549,9 @@ https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/MUSICindo/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584547
 
@@ -598,10 +606,14 @@ https://mui.siar.us/mui/live/playlist.m3u8
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SB9s17w/TV9-malik.png" group-title="RELIGI", TV9
+https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JHFFvsJ/Tawaf-malik.pngg" group-title="RELIGI", TAWAF TV
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/584464
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://testfunctionlive.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dM57dfT/Tv-Mu-malik.png" group-title="RELIGI", MUHAMMADIYAH TV
 https://e.siar.us/live/tvmu.m3u8
@@ -624,9 +636,14 @@ EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fi
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/cYs9mb6/Fight-Sports-malik.png" group-title="SPORTS", FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830543
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS", UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11-1080FHD.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/JQb63YR/Impact-Wrestling-malik.png" group-title="SPORTS", IMPACT! WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
@@ -646,7 +663,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/7
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48099.ts
 https://mantul.biz.id:443/inetwork/gayanet12/8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/2M1L417/Horizon-Sports-malik.png" group-title="SPORTS", HORISON SPORTS
+EXTINF: -1 tvg-logo="https://i.ibb.co.com/2M1L417/Horizon-Sports-malik.png" group-title="SPORTS", HORISON SPORTS
 https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/8cvBGQ6/Soccer-Channel-malik.png", SOCCER CHANNEL
