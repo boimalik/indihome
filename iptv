@@ -3,11 +3,13 @@
                          ***   TV INDO   ***
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/52vWM56/Transtv-malik.gif" group-title="TV INDO", TRANS TV
+https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 https://raw.githubusercontent.com/arisdwr/pl/main/s/TransTV.m3u8
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/yXNS6KH/Trans7-malik-L.gif" group-title="TV INDO", TRANS 7
+https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://raw.githubusercontent.com/arisdwr/pl/main/s/Trans7.m3u8
 
@@ -23,18 +25,29 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Kw2Snsq/RCTI-malik.gif" group-title="TV INDO", RCTI
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/3Yg6TQ0/GTV-malik.gif" group-title="TV INDO", GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
-https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/rp9CqW6/Mnctv-malik.gif" group-title="TV INDO", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584546
-https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/2ZG3Z5y/INews-malik.png" group-title="TV INDO", INEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
@@ -200,7 +213,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/nhk/manifest.mpd
 http://iptvid.my.id/hmm/nhkw.m3u8
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
 
-EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" group-title="NEWS", MNC NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png" group-title="NEWS", SINDO NEWS
+https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/mncnews/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/134/mncnews/index.m3u8
 http://iptvid.my.id/hmm/mncnews.m3u8
@@ -417,6 +431,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JdZ5HvT/Nick-Jr-malik.png" group-title="KIDS", NICK JUNIOR
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165107
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MHYLYP/Nickelodeon-malik.png" group-title="KIDS", NICKELODEON
@@ -471,6 +486,7 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 ***KNOWLEDGE***
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9yPNF9/Discovery-Channel-malik.png" group-title="KNOWLEDGE", DISCOVERY CHANNEL
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157597
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 https://cdn12jtedge.indihometv.com/atm/DASH/discovery/manifest.mpd
@@ -548,7 +564,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/MUSICindo/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
@@ -590,6 +606,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QYxL142/Assunah-Anabawi.png" group-title="RELIGI", ASSUNAH ANABAWI
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/H2v0C2N/Rodja-malik.png" group-title="RELIGI", RODJA TV
@@ -610,6 +627,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JHFFvsJ/Tawaf-malik.pngg" group-title="RELIGI", TAWAF TV
+https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
