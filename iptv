@@ -25,29 +25,36 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Kw2Snsq/RCTI-malik.gif" group-title="TV INDO", RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/3Yg6TQ0/GTV-malik.gif" group-title="TV INDO", GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/3Yg6TQ0/GTV-malik.gif" group-title="TV INDO", GTV
+https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/rp9CqW6/Mnctv-malik.gif" group-title="TV INDO", MNCTV
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/584546
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#http://suprino.xyz:80/PMF3J9X/BV7HG8H/584546
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/2ZG3Z5y/INews-malik.png" group-title="TV INDO", INEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
@@ -389,6 +396,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5410&deviceMac=00:1A:79:17:
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=vtv  
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cwSw5ZL/HOREE-malik.png" group-title="KIDS", HOREE
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.ts
 https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
@@ -486,8 +497,8 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 ***KNOWLEDGE***
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9yPNF9/Discovery-Channel-malik.png" group-title="KNOWLEDGE", DISCOVERY CHANNEL
-https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157597
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 https://cdn12jtedge.indihometv.com/atm/DASH/discovery/manifest.mpd
 
@@ -564,21 +575,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/MUSICindo/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
-https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/584547
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
+https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Lgpbw6/MTV-malik.png" group-title="MUSIC", MTV LIVE
 https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRVQ4x9/MTV-90s-malik.png" group-title="MUSIC", MTV 90s
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830531
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JzGKdMW/Prambors-malik.png" group-title="MUSIC", PRAMBORS
