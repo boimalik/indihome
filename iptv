@@ -132,6 +132,9 @@ https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjpZRWq/All-Play-malik.png" group-title="TV INDO", ALL PLAY
 https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="TV INDO", Oxygen TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
 EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="TV INDO", RRI NET
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 http://iptvid.my.id/hmm/rrinet.m3u8
@@ -204,24 +207,27 @@ http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;user
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K0SBqY5/VOA-malik.png" group-title="NEWS", VOA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 
-EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS", BLOOMBERG 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPqKJrG1/Bloomberg-Boi.png" group-title="NEWS", BLOOMBERG 
 https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="NEWS", CCTV4
-http://iptvid.my.id/hmm/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="NEWS", CCTV4
+https://cdn11jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="NEWS", DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS", DW
+https://cdn11jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/dw/manifest.mpd
 http://iptvid.my.id/hmm/dwtv.m3u8
 http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="NEWS", FRANCE 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/997KnfsS/France-24-Boi.png" group-title="NEWS", FRANCE 24
+https://cdn11jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/france24/manifest.mpd
 http://iptvid.my.id/hmm/france24.m3u8
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="NEWS", NHK WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6r8Sctj/NHK-WORLD-boi.png" group-title="NEWS", NHK WORLD JAPAN
+https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/nhk/manifest.mpd
 http://iptvid.my.id/hmm/nhkw.m3u8
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
@@ -319,9 +325,10 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-M
 https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GHLbM3z/Cinema-World-malik.png" group-title="PREMIUM CHANNEL", CINEMAWORLD
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
-#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
+
 #https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEBW50xPjLV_f2qxi2IVloE
+#https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Yp75rJL/Celestial-Movies-malik.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES
