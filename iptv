@@ -4,14 +4,14 @@
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/52vWM56/Transtv-malik.gif" group-title="TV INDO", TRANS TV
 https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-https://raw.githubusercontent.com/arisdwr/pl/main/s/TransTV.m3u8
+#https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/TransTV.m3u8
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/yXNS6KH/Trans7-malik-L.gif" group-title="TV INDO", TRANS 7
 https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-https://raw.githubusercontent.com/arisdwr/pl/main/s/Trans7.m3u8
+#https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/Trans7.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/qF9LG7G/Indosiar-malik.gif" group-title="TV INDO", INDOSIAR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -22,22 +22,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Kw2Snsq/RCTI-malik.gif" group-title="TV INDO", RCTI
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
+##EXTVLCOPT:http-user-agent=android-R+
+##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/3Yg6TQ0/GTV-malik.gif" group-title="TV INDO", GTV
 https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -47,8 +47,8 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/rp9CqW6/Mnctv-malik.gif" group-title="TV INDO", MNCTV
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -58,9 +58,9 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/2ZG3Z5y/INews-malik.png" group-title="TV INDO", INEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
-https://raw.githubusercontent.com/arisdwr/pl/main/s/iNews.m3u8
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/iNews.m3u8
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ThQyYqc/Moji-malik.png" group-title="TV INDO", MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -71,12 +71,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-https://raw.githubusercontent.com/arisdwr/pl/main/s/NetTV.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/NetTV.m3u8
  
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Bn5cjL9/Rajawali-Televisi-malik.png" group-title="TV INDO", RTV
 https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.ts
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.ts
+#https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/T23SmXh/ANTV-malik.gif" group-title="TV INDO", ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -89,17 +89,17 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/sW4kYkX/Metrotv-malik.gif" group-title="TV INDO", METRO TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
-https://raw.githubusercontent.com/arisdwr/pl/main/s/MetroTV.m3u8
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/MetroTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/S3JXQx8/Kompas-malik.gif" group-title="TV INDO", KOMPAS TV
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-https://raw.githubusercontent.com/arisdwr/pl/main/s/KompasTV.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/KompasTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/JvWsYLQ/TVRI-malik.png" group-title="TV INDO", TVRI
 https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
-https://raw.githubusercontent.com/arisdwr/pl/main/s/TVRI.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/TVRI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pQKQTgz/Nusantara-TV-malik.png" group-title="TV INDO", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -113,21 +113,22 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.ts
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/6ZDfMpK/Bioskop-ID-malik.png" group-title="TV INDO", BIOSKOP INDONESIA
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/908.ts
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/908.ts
+#https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:-1 group-title="TV INDO"  tvg-logo="https://i.ibb.co.com/Zdd3LSh/Maxstream-malik.png", MAXSTREAM
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/55jb2vf/Dunia-Lain-malik.png" group-title="TV INDO", DUNIA LAIN
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/910.ts
-https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/P4dCY72/Insert-malik.png" group-title="TV INDO", INSERT
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1763.ts
-https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
+#https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjpZRWq/All-Play-malik.png" group-title="TV INDO", ALL PLAY
 https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -162,11 +163,12 @@ http://iptvid.my.id/hmm/daaitv.m3u8
 
 EXTINF: -1 tvg-logo="https://images.useetv.com/logo_idx_small.png" group-title="TV INDO", IDX
 https://cdn09jtedge.indihometv.com/dvr/139/idx/manifest.mpd
-http://iptvid.my.id/hmm/idx.m3u8
 
 EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="TV INDO", ATV
 https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 http://iptvid.my.id/hmm/atv.m3u8
+https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
 
 
                                         *** NEWS ***
@@ -209,28 +211,31 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPqKJrG1/Bloomberg-Boi.png" group-title="NEWS", BLOOMBERG 
 https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="NEWS", CCTV4
-https://cdn11jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
-http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+https://streaming.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+#https://cdn11jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+#http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS", DW
 https://cdn11jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
-https://cdn09jtedge.indihometv.com/dvr/139/dw/manifest.mpd
-http://iptvid.my.id/hmm/dwtv.m3u8
-http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/dw/manifest.mpd
+#http://iptvid.my.id/hmm/dwtv.m3u8
+#http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/997KnfsS/France-24-Boi.png" group-title="NEWS", FRANCE 24
 https://cdn11jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
-https://cdn09jtedge.indihometv.com/dvr/139/france24/manifest.mpd
-http://iptvid.my.id/hmm/france24.m3u8
-http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/france24/manifest.mpd
+#http://iptvid.my.id/hmm/france24.m3u8
+#http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6r8Sctj/NHK-WORLD-boi.png" group-title="NEWS", NHK WORLD JAPAN
 https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
-https://cdn09jtedge.indihometv.com/dvr/139/nhk/manifest.mpd
-http://iptvid.my.id/hmm/nhkw.m3u8
-http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/nhk/manifest.mpd
+#http://iptvid.my.id/hmm/nhkw.m3u8
+#http://210.210.155.35:80/uq2663/h/h23/01.m3u8
 
                             ***    PREMIUM CHANNEL    ***
 
@@ -283,22 +288,24 @@ https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TvH3dvR/AXN-malik.png" group-title="PREMIUM CHANNEL", AXN
 https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
-https://raw.githubusercontent.com/arisdwr/pl/main/s/AXN.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/AXN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="PREMIUM CHANNEL", STUDIO UNIVERSAL
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GshHFvk/Hits-Now-malik.png" group-title="PREMIUM CHANNEL", HITS NOW
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7ST598/Hit-Movies-malik.png" group-title="PREMIUM CHANNEL", HITS MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/957.ts
-https://raw.githubusercontent.com/arisdwr/pl/main/s/HitsMovies.m3u8
+https://cempedak-cdn-fly.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/957.ts
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/HitsMovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JxM8Kb/HIts-malik.png" group-title="PREMIUM CHANNEL", HITS
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.ts
-https://raw.githubusercontent.com/arisdwr/pl/main/s/Hits.m3u8
+https://cempedak-cdn-fly.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.ts
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/Hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0mPNtMN/My-Cinema-malik.png" group-title="PREMIUM CHANNEL",MY CINEMA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -333,7 +340,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Yp75rJL/Celestial-Movies-malik.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES
 http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
-https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nq7ffs8Q/Boi-Malik-CCM.png" group-title="PREMIUM CHANNEL", CELESTIAL CLASSIC MOVIES
 http://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
@@ -342,21 +349,21 @@ http://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
+##https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vzLcDjs/TVN-malik.png" group-title="PREMIUM CHANNEL", TVN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
+##https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1bWYTgw/KIX-malik.png" group-title="PREMIUM CHANNEL", KIX
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
-https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8
+##https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ncTMmHD/K-malik.png" group-title="PREMIUM CHANNEL", K+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ncTMmHD/K-malik.png" group-title="PREMIUM CHANNEL", K-Plus
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
@@ -366,7 +373,7 @@ EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/B3TxvS1/ONE-malik.png" group-title="PREMIUM CHANNEL", ONE 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/19.ts
-https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
+#https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wp5qmdmt/Iflix-boi.png" group-title="PREMIUM CHANNEL", IFLIX HORROR
 https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEo8SDdS2NbzVDZ6f9tcKx2
@@ -381,16 +388,16 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_9
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tBtYsSJ/Zee-Bioskop-malik.png" group-title="PREMIUM CHANNEL", ZEE BIOSKOP
 https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/0YCg04S/TV5-Monde-malik.png" group-title="PREMIUM CHANNEL", TV5 MONDE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0YCg04S/TV5-Monde-malik.png" group-title="PREMIUM CHANNEL", TV5 MONDE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_Style_HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qj8RDb8/Lifetime-malik.png" group-title="PREMIUM CHANNEL", LIFETIME
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/866.ts
-https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/lifetime/manifest.mpd
-http://iptvid.my.id/hmm/lifetime.m3u8
+#https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/lifetime/manifest.mpd
+#http://iptvid.my.id/hmm/lifetime.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="PREMIUM CHANNEL" tvg-url="" tvg-logo="https://i.ibb.co.com/7ks9mXP/Sony-Pix-malik.png", SONY PIX
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
@@ -410,7 +417,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5410&deviceMac=00:1A:79:17:
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fCHspq6/Mentari-TV-malik.png" group-title="KIDS", MENTARI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -418,15 +425,15 @@ https://why.biz.id/Iptv/oxygen.php?id=vtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cwSw5ZL/HOREE-malik.png" group-title="KIDS", HOREE
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.ts
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
+#https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6vjsTrg/Fun-Planet-malik.png" group-title="KIDS", FUN PLANET
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c35ZghD/Nusantara-malik.png" group-title="KIDS", DUNIA ANAK 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.ts
-https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/y85dxg5/MKidz-malik.png" group-title="KIDS", MY KIDZ
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -448,10 +455,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z1fjZQy/Dreamworks-malik.png" group-title="KIDS", DREAMWORKS
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
-https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8?c
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088912
-https://cdn09jtedge.indihometv.com/dvr/139/drmwrk/manifest.mpd
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8?c
+#http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088912
+#https://cdn09jtedge.indihometv.com/dvr/139/drmwrk/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pXTphj4/CARTOON-NETWORK-malik.png" group-title="KIDS", CARTOON NETWORK
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157593
@@ -461,6 +468,8 @@ https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JdZ5HvT/Nick-Jr-malik.png" group-title="KIDS", NICK JUNIOR
+https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
+
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165107
 https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
@@ -470,16 +479,17 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162510
 https://cdn09jtedge.indihometv.com/dvr/139/nickelodeon/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cm1PSGg/Disney-Channel-malik.png" group-title="KIDS", DISNEY CHANNEL
-http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
+http://38.96.178.201:80/live/Disney/index.m3u8
+#http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgDWYJt/Disney-XD-malik.png" group-title="KIDS", DISNEY XD
 http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6395
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6395
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HG7ChpJ/Disney-Jr-malik.png" group-title="KIDS", DISNEY JUNIOR
 http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS", ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -708,7 +718,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/8
 EXTINF: -1 tvg-logo="https://i.ibb.co.com/2M1L417/Horizon-Sports-malik.png" group-title="SPORTS", HORISON SPORTS
 https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/8cvBGQ6/Soccer-Channel-malik.png", SOCCER CHANNEL
+EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/8cvBGQ6/Soccer-Channel-malik.png", SOCCER CHANNEL
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_2499968=7.m3u8
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830541
