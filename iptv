@@ -34,7 +34,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/3Yg6TQ0/GTV-malik.gif" group-title="TV INDO", GTV
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ZzG71xWV/Gtv-boi-malik.gif" group-title="TV INDO", GTV
 https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
@@ -45,7 +45,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/rp9CqW6/Mnctv-malik.gif" group-title="TV INDO", MNCTV
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/9Hd8JzPd/MNCTv-boi-malik.gif" group-title="TV INDO", MNCTV
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
@@ -88,7 +88,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/sW4kYkX/Metrotv-malik.gif" group-title="TV INDO", METRO TV
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/zTtfn7Fv/Metro-TV-boi-malik.png" group-title="TV INDO", METRO TV
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
 #https://raw.githubusercontent.com/arisdwr/pl/main/s/MetroTV.m3u8
@@ -516,12 +516,12 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://tvn.x10.mx/1/master-8.m3u8?dl=1
 http://tvlive.my.id:25461/mat/mat/68
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", BOOMERANG
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fkv81SGp/Boomerang-boi-malik.png" group-title="KIDS", BOOMERANG
 http://supersonictv.live:8080/live/144264/661943/21791.ts
 https://cdn09jtedge.indihometv.com/dvr/139/boomerang/manifest.mpd
 http://iptvid.my.id/hmm/boomerang.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/3/da-vinci-logo-png_seeklogo-447386.png" group-title="KIDS", DA VINCI
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yFhnpc1s/Da-Vinci-Learning-boi-malik.png" group-title="KIDS", DA VINCI
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/36729.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/davinci/manifest.mpd
@@ -602,7 +602,7 @@ http://iptvid.my.id/hmm/indonesiana.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xfXCVz9/CGTN-Documentary-malik.png" group-title="KNOWLEDGE", CGTN DOCUMENTARY
 https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/2/dmax-spain-logo-png_seeklogo-519387.png" group-title="KNOWLEDGE", DMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tPvDshs/DMAX-boi-malik.png" group-title="KNOWLEDGE", DMAX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37417.m3u8
 
