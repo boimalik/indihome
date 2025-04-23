@@ -25,36 +25,31 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Kw2Snsq/RCTI-malik.gif" group-title="TV INDO", RCTI
-https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd 
 
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
-##EXTVLCOPT:http-user-agent=android-R+
-##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ZzG71xWV/Gtv-boi-malik.gif" group-title="TV INDO", GTV
-https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/9Hd8JzPd/MNCTv-boi-malik.gif" group-title="TV INDO", MNCTV
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
 
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#http://suprino.xyz:80/PMF3J9X/BV7HG8H/584546
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/2ZG3Z5y/INews-malik.png" group-title="TV INDO", INEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
@@ -312,13 +307,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7ST598/Hit-Movies-malik.png" group-title="PREMIUM CHANNEL", HITS MOVIES
-https://cempedak-cdn-fly.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
-#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/957.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/957.ts
 #https://raw.githubusercontent.com/arisdwr/pl/main/s/HitsMovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JxM8Kb/HIts-malik.png" group-title="PREMIUM CHANNEL", HITS
-https://cempedak-cdn-fly.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
-#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/94.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/94.ts
 #https://raw.githubusercontent.com/arisdwr/pl/main/s/Hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0mPNtMN/My-Cinema-malik.png" group-title="PREMIUM CHANNEL",MY CINEMA
@@ -337,13 +332,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JwrRDDkB/ORIGINALS-boi-malik.png" group-title="PREMIUM CHANNEL", ORIGINALS
-https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7d5JHdpm/CINEEDGE-Boi-Malik.png" group-title="PREMIUM CHANNEL", CINEEDGE
-https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bM63B5hc/SUPPERRIX-boi-malik.png" group-title="PREMIUM CHANNEL", SUPERRIX
-https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LDP57dL5/UNIQUES-boi-malik.png" group-title="PREMIUM CHANNEL", UNIQUES
-https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GHLbM3z/Cinema-World-malik.png" group-title="PREMIUM CHANNEL", CINEMAWORLD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
@@ -460,10 +463,14 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/W4TsrtS1/BUDDY-STAR-boi-malik.png" group-title="KIDS", BUDDY STAR
-https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tJPf1yM/Animax-malik.png" group-title="KIDS", ANIMAX
-https://cempedak-cdn-fly.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
 #http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
 #https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
@@ -488,14 +495,16 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157593
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JdZ5HvT/Nick-Jr-malik.png" group-title="KIDS", NICK JR
-https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165107
 #https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MHYLYP/Nickelodeon-malik.png" group-title="KIDS", NICKELODEON
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162510
-#https://cempedak-cdn-fly.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 #https://cdn09jtedge.indihometv.com/dvr/139/nickelodeon/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cm1PSGg/Disney-Channel-malik.png" group-title="KIDS", DISNEY CHANNEL
@@ -640,19 +649,22 @@ http://iptvtree.net:8080/ace2524d/15a571c413/171979
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bf2131N/MUSIC-Indo-malik.png" group-title="MUSIC", MUSIK INDONESIA
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/MUSICindo/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
-https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Music-HD/sa_dash/Music-HD.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Lgpbw6/MTV-malik.png" group-title="MUSIC", MTV LIVE
 https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 #http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/9110.m3u8
-#https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRVQ4x9/MTV-90s-malik.png" group-title="MUSIC", MTV 90s
-https://cempedak-cdn-fly.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
 #http://suprino.xyz:80/PMF3J9X/BV7HG8H/830531
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JzGKdMW/Prambors-malik.png" group-title="MUSIC", PRAMBORS
