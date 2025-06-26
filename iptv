@@ -199,7 +199,8 @@ https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/QC4nLSZ/SEa-Today-malik.png" group-title="NEWS", SEA TODAY
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/36730.m3u8
+https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/36730.m3u8
 #https://raw.githubusercontent.com/arisdwr/pl/main/s/SeaToday.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mGWJ1y8/AL-Jazeera-malik.png" group-title="NEWS", ALJAZEERA
